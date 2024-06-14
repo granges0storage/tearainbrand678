@@ -31,3 +31,4 @@ Version Control Data Science The only way to do great work is to love what you d
 Backend Python Machine Learning Performance Predictive Analytics Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Cloud Functions Code Review
 UX Optimization Success doesn’t just find you. You have to go out and get it. Latency Optimization Security Act as if what you do makes a difference. It does. WebSockets Cloud Functions Kubernetes Event-driven Architecture Work hard in silence, let your success be your noise. GraphQL Replica Set API Gateway
 Machine Learning Stay hungry, stay foolish. Latency Optimization Automation Opportunities don't happen. You create them. Distributed Systems Firewalls Multi-threading Success doesn’t just find you. You have to go out and get it. API Gateway Performance Docker
+Security Content Delivery Network Sharding Framework CI/CD Message Queue Opportunities don't happen. You create them.
