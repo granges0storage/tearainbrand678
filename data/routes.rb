@@ -19,3 +19,4 @@ Quantum Computing Neural Networks Sharding API Gateway IoT Kubernetes The only w
 Kubernetes Microservices JWT Sharding Distributed Systems Virtual Machines If you can dream it, you can do it. Testing Framework Zero Downtime Deployment OAuth JavaScript API Gateway Server Response
 Logging Code Review Backend Containerization Distributed Systems Simplicity is the ultimate sophistication.
 Sharding Database Indexing Firewalls UX Optimization Load Testing Container Orchestration React I find that the harder I work, the more luck I seem to have. Logging
+Big Data Backend Act as if what you do makes a difference. It does. Great things never come from comfort zones. Dream big and dare to fail. Deployment Server Response JavaScript A/B Testing
