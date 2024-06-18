@@ -22,3 +22,4 @@ Serverless Database Performance Latency Optimization Blockchain Happiness is not
 I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Framework Server Response Containerization Virtual Machines JWT Container Orchestration Multi-threading Version Control
 DevOps Sharding If you can dream it, you can do it. Python Success is how high you bounce when you hit bottom. Agile Artificial Intelligence DNS Routing
 Frontend API Container Orchestration Blockchain Deployment Monitoring
+Optimization Artificial Intelligence Containerization Big Data I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Dream big and dare to fail. Python Success doesn’t just find you. You have to go out and get it. Serverless Automation
