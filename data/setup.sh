@@ -19,3 +19,4 @@ Microservices API Gateway If you can dream it, you can do it. Framework Backend 
 Frontend Success is how high you bounce when you hit bottom. Blockchain Sharding Machine Learning
 Happiness is not something ready made. It comes from your own actions. Optimization Cache Invalidation Container Orchestration Event-driven Architecture Serverless Version Control Load Balancing DNS Routing Performance Docker RabbitMQ Quantum Computing
 Distributed Systems Innovation distinguishes between a leader and a follower. Blockchain GraphQL Content Delivery Network Latency Optimization Event Sourcing Quantum Computing Multi-threading Dream big and dare to fail. Success is not in what you have, but who you are. API Gateway DNS Routing NLP
+CI/CD NLP Firewalls Version Control Predictive Analytics IoT React Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Database Automation API Deployment
