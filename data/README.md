@@ -24,3 +24,4 @@ API Gateway NLP Monitoring Success usually comes to those who are too busy to be
 Success usually comes to those who are too busy to be looking for it. CI/CD Difficult roads often lead to beautiful destinations. Version Control Parallel Processing Opportunities don't happen. You create them. DNS Routing API Latency Optimization
 Docker Python A/B Testing OAuth Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Event-driven Architecture Sharding Stay hungry, stay foolish. Server Response
 Code Review I find that the harder I work, the more luck I seem to have. Microservices CI/CD Automation Server Response Cache Invalidation Backend Stay hungry, stay foolish. Blockchain RabbitMQ Latency Optimization
+API Gateway GraphQL Docker Event Sourcing Data Science

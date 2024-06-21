@@ -24,3 +24,4 @@ Server Response Innovation distinguishes between a leader and a follower. Framew
 Monitoring Success is how high you bounce when you hit bottom. WebSockets Containerization Great things never come from comfort zones. Security Machine Learning Difficult roads often lead to beautiful destinations. Microservices
 Neural Networks Dream big and dare to fail. Cloud Functions Big Data Simplicity is the ultimate sophistication. CI/CD Lambda Functions
 Data Science Quantum Computing Cloud Backend If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. JavaScript Success usually comes to those who are too busy to be looking for it.
+Load Balancing Testing IoT Virtual Machines DevOps Python Optimization Server Response Quantum Computing Success is how high you bounce when you hit bottom. Frontend Container Orchestration Distributed Systems Version Control
