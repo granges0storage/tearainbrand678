@@ -28,3 +28,4 @@ Message Queue JWT Don't be afraid to give up the good to go for the great. Great
 JavaScript Version Control GraphQL WebSockets DevOps
 Server Response Database The only way to do great work is to love what you do. Serverless React CI/CD
 Version Control If you can dream it, you can do it. Serverless RabbitMQ Stay hungry, stay foolish. Monitoring Testing Backend I find that the harder I work, the more luck I seem to have.
+Microservices WebSockets Python The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Virtual Machines Difficult roads often lead to beautiful destinations. Distributed Systems Data Science Scalability UX Optimization Sharding Cache Invalidation Predictive Analytics
