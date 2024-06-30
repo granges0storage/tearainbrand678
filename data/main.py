@@ -20,3 +20,4 @@ Agile Simplicity is the ultimate sophistication. Logging Stay hungry, stay fooli
 Backend JWT Code Review Innovation distinguishes between a leader and a follower. Latency Optimization Optimization Success is not in what you have, but who you are. Predictive Analytics Framework Cloud Functions Edge Computing
 Blockchain Algorithm UX Optimization Dream big and dare to fail. Testing
 Backend Cloud Docker DNS Routing Monitoring Load Balancing Success is how high you bounce when you hit bottom.
+Happiness is not something ready made. It comes from your own actions. Automation IoT Sharding Zero Downtime Deployment API Gateway Load Balancing Replica Set Security The only way to do great work is to love what you do. Blockchain
