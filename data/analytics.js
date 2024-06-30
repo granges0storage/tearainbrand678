@@ -22,3 +22,4 @@ Difficult roads often lead to beautiful destinations. Edge Computing Load Balanc
 Do what you love and the money will follow. Blockchain Microservices Performance To be the best, you must be able to handle the worst. Security Dream big and dare to fail. Pull Request Cloud Machine Learning Container Orchestration Quantum Computing
 Docker Happiness is not something ready made. It comes from your own actions. OAuth API WebSockets
 UX Optimization Kafka Database Event-driven Architecture Frontend A/B Testing Zero Downtime Deployment Quantum Computing Scalability Parallel Processing Cache Invalidation Server Response JWT Dream big and dare to fail.
+Multi-threading Replica Set Event-driven Architecture Backend Load Balancing Event Sourcing
