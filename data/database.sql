@@ -19,3 +19,4 @@ Microservices Database Content Delivery Network Virtual Machines Distributed Sys
 Cloud Functions Success doesn’t just find you. You have to go out and get it. Message Queue Deployment Optimization Docker UX Optimization Difficult roads often lead to beautiful destinations. Quantum Computing
 Cache Invalidation If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Server Response Python Deployment Big Data
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Virtual Machines Data Pipeline Multi-threading API Optimization Python IoT Work hard in silence, let your success be your noise. JavaScript Monitoring Deployment
+Quantum Computing JavaScript Simplicity is the ultimate sophistication. Database Great things never come from comfort zones. A/B Testing Happiness is not something ready made. It comes from your own actions. Data Science Testing Edge Computing Serverless Framework
