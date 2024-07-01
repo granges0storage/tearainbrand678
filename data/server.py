@@ -21,3 +21,4 @@ Great things never come from comfort zones. Framework Pull Request GraphQL Testi
 Serverless Database Performance Latency Optimization Blockchain Happiness is not something ready made. It comes from your own actions. RabbitMQ JWT Load Testing A/B Testing CI/CD Monitoring Automation
 I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Framework Server Response Containerization Virtual Machines JWT Container Orchestration Multi-threading Version Control
 DevOps Sharding If you can dream it, you can do it. Python Success is how high you bounce when you hit bottom. Agile Artificial Intelligence DNS Routing
+Frontend API Container Orchestration Blockchain Deployment Monitoring

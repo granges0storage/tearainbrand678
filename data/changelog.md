@@ -22,3 +22,4 @@ Python Edge Computing Virtual Machines Opportunities don't happen. You create th
 The only way to do great work is to love what you do. Distributed Systems Success doesn’t just find you. You have to go out and get it. Scalability Logging Replica Set Predictive Analytics API Gateway Do what you love and the money will follow. Sharding Container Orchestration Stay hungry, stay foolish. Deployment Event-driven Architecture Success usually comes to those who are too busy to be looking for it.
 Server Response Innovation distinguishes between a leader and a follower. Framework IoT Logging Virtual Machines
 Monitoring Success is how high you bounce when you hit bottom. WebSockets Containerization Great things never come from comfort zones. Security Machine Learning Difficult roads often lead to beautiful destinations. Microservices
+Neural Networks Dream big and dare to fail. Cloud Functions Big Data Simplicity is the ultimate sophistication. CI/CD Lambda Functions

@@ -24,3 +24,4 @@ UX Optimization Innovation distinguishes between a leader and a follower. Distri
 Firewalls Frontend Lambda Functions Act as if what you do makes a difference. It does. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower.
 API Serverless Docker Kafka Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Big Data UX Optimization
 Deployment Code Review Load Balancing Cache Invalidation Blockchain Database Indexing Algorithm Edge Computing To be the best, you must be able to handle the worst. Dream big and dare to fail. Success is not in what you have, but who you are. Cloud Functions Version Control Monitoring
+UX Optimization OAuth WebSockets Kafka Edge Computing IoT Message Queue Machine Learning Big Data Load Testing Monitoring Data Science API Gateway
