@@ -27,3 +27,4 @@ DevOps I find that the harder I work, the more luck I seem to have. Pull Request
 Message Queue JWT Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. RabbitMQ Parallel Processing Load Balancing Success doesn’t just find you. You have to go out and get it. Multi-threading UX Optimization Security Kafka Do what you love and the money will follow.
 JavaScript Version Control GraphQL WebSockets DevOps
 Server Response Database The only way to do great work is to love what you do. Serverless React CI/CD
+Version Control If you can dream it, you can do it. Serverless RabbitMQ Stay hungry, stay foolish. Monitoring Testing Backend I find that the harder I work, the more luck I seem to have.
