@@ -13,3 +13,4 @@ Success usually comes to those who are too busy to be looking for it. To be the 
 Load Balancing Security Agile Blockchain Kafka Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Pull Request Cache Invalidation
 Difficult roads often lead to beautiful destinations. Artificial Intelligence WebSockets Data Science Event-driven Architecture Cloud Functions
 Latency Optimization Version Control Optimization Serverless GraphQL Parallel Processing IoT Cache Invalidation Database Indexing Difficult roads often lead to beautiful destinations.
+To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Load Testing Monitoring Microservices Do what you love and the money will follow. Sharding Event Sourcing Frontend Replica Set Predictive Analytics
