@@ -17,3 +17,4 @@ Kafka A/B Testing Innovation distinguishes between a leader and a follower. DevO
 Frontend Zero Downtime Deployment Cache Invalidation Testing Python Lambda Functions
 Microservices API Gateway If you can dream it, you can do it. Framework Backend Success usually comes to those who are too busy to be looking for it. Cloud Functions Performance Virtual Machines Parallel Processing
 Frontend Success is how high you bounce when you hit bottom. Blockchain Sharding Machine Learning
+Happiness is not something ready made. It comes from your own actions. Optimization Cache Invalidation Container Orchestration Event-driven Architecture Serverless Version Control Load Balancing DNS Routing Performance Docker RabbitMQ Quantum Computing
