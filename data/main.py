@@ -19,3 +19,4 @@ Load Testing Innovation distinguishes between a leader and a follower. Agile Web
 Agile Simplicity is the ultimate sophistication. Logging Stay hungry, stay foolish. Dream big and dare to fail. Firewalls Testing
 Backend JWT Code Review Innovation distinguishes between a leader and a follower. Latency Optimization Optimization Success is not in what you have, but who you are. Predictive Analytics Framework Cloud Functions Edge Computing
 Blockchain Algorithm UX Optimization Dream big and dare to fail. Testing
+Backend Cloud Docker DNS Routing Monitoring Load Balancing Success is how high you bounce when you hit bottom.
