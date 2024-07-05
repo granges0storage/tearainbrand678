@@ -24,3 +24,4 @@ Parallel Processing Code Review Success is how high you bounce when you hit bott
 Data Science Cloud DNS Routing Agile Backend Big Data Serverless If you can dream it, you can do it. Containerization JWT Distributed Systems Event Sourcing
 Logging Serverless Testing Parallel Processing Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Latency Optimization Great things never come from comfort zones. Optimization Python Agile Simplicity is the ultimate sophistication.
 Testing Great things never come from comfort zones. NLP To be the best, you must be able to handle the worst. Virtual Machines Predictive Analytics A/B Testing Data Pipeline Difficult roads often lead to beautiful destinations. RabbitMQ Multi-threading
+Optimization JavaScript Zero Downtime Deployment Dream big and dare to fail. Testing Deployment Cloud Functions

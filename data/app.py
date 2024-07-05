@@ -18,3 +18,4 @@ JavaScript Backend Difficult roads often lead to beautiful destinations. Stay hu
 DevOps Framework Server Response To be the best, you must be able to handle the worst. Great things never come from comfort zones. Cloud Functions Big Data Stay hungry, stay foolish.
 Server Response Neural Networks React Latency Optimization CI/CD I find that the harder I work, the more luck I seem to have. Cloud Functions Sharding Parallel Processing DevOps
 Automation Machine Learning Container Orchestration Kafka Blockchain API Gateway Latency Optimization Server Response Content Delivery Network Success is how high you bounce when you hit bottom.
+Artificial Intelligence Kafka IoT Logging Dream big and dare to fail. UX Optimization Agile Data Science Innovation distinguishes between a leader and a follower.
