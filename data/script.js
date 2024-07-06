@@ -28,3 +28,4 @@ Act as if what you do makes a difference. It does. Cache Invalidation Replica Se
 RabbitMQ Microservices API React Act as if what you do makes a difference. It does. Cloud Functions Cache Invalidation Load Testing Parallel Processing Predictive Analytics JWT
 Event Sourcing Kafka Code Review Frontend Firewalls Act as if what you do makes a difference. It does. Algorithm
 Automation Framework Firewalls Serverless Scalability If you can dream it, you can do it. UX Optimization Don't be afraid to give up the good to go for the great. Replica Set Latency Optimization Opportunities don't happen. You create them.
+Deployment Cloud Agile Docker Cache Invalidation Stay hungry, stay foolish. Microservices Success usually comes to those who are too busy to be looking for it. WebSockets Automation OAuth JWT Security Backend Sharding

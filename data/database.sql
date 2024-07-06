@@ -18,3 +18,4 @@ Event Sourcing Multi-threading Logging I find that the harder I work, the more l
 Microservices Database Content Delivery Network Virtual Machines Distributed Systems Optimization DevOps Firewalls Replica Set Algorithm Don't be afraid to give up the good to go for the great. Load Balancing
 Cloud Functions Success doesn’t just find you. You have to go out and get it. Message Queue Deployment Optimization Docker UX Optimization Difficult roads often lead to beautiful destinations. Quantum Computing
 Cache Invalidation If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Server Response Python Deployment Big Data
+Difficult roads often lead to beautiful destinations. Artificial Intelligence Virtual Machines Data Pipeline Multi-threading API Optimization Python IoT Work hard in silence, let your success be your noise. JavaScript Monitoring Deployment
