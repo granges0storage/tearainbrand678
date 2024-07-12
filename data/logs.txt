@@ -26,3 +26,4 @@ Act as if what you do makes a difference. It does. Don't be afraid to give up th
 DNS Routing WebSockets Database Indexing Big Data Sharding Cache Invalidation Work hard in silence, let your success be your noise. API Load Balancing RabbitMQ
 NLP Firewalls Work hard in silence, let your success be your noise. Artificial Intelligence Container Orchestration Event-driven Architecture
 Great things never come from comfort zones. NLP Data Science GraphQL Security Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Blockchain JWT Act as if what you do makes a difference. It does. Stay hungry, stay foolish. RabbitMQ If you can dream it, you can do it. Dream big and dare to fail. Virtual Machines
+API Success doesn’t just find you. You have to go out and get it. Event Sourcing Automation Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Quantum Computing
