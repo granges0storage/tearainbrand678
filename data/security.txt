@@ -19,3 +19,4 @@ Event Sourcing Success usually comes to those who are too busy to be looking for
 Code Review Data Pipeline Content Delivery Network Performance Load Balancing Cloud Functions Python To be the best, you must be able to handle the worst. Pull Request
 Cloud Framework DNS Routing Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Data Pipeline UX Optimization Stay hungry, stay foolish.
 Predictive Analytics Python Event-driven Architecture JavaScript I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Blockchain Serverless Algorithm Backend Docker A/B Testing Scalability Happiness is not something ready made. It comes from your own actions. Replica Set
+Machine Learning Security Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Server Response Difficult roads often lead to beautiful destinations.
