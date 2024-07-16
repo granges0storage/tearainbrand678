@@ -16,3 +16,4 @@ Data Pipeline Event-driven Architecture Serverless Data Science Distributed Syst
 Success is how high you bounce when you hit bottom. Cloud Quantum Computing Logging Firewalls Replica Set Code Review
 JavaScript Backend Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. DevOps Database Indexing DNS Routing Happiness is not something ready made. It comes from your own actions. Container Orchestration Great things never come from comfort zones. Virtual Machines Zero Downtime Deployment Logging Do what you love and the money will follow. If you can dream it, you can do it.
 DevOps Framework Server Response To be the best, you must be able to handle the worst. Great things never come from comfort zones. Cloud Functions Big Data Stay hungry, stay foolish.
+Server Response Neural Networks React Latency Optimization CI/CD I find that the harder I work, the more luck I seem to have. Cloud Functions Sharding Parallel Processing DevOps
