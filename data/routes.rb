@@ -18,3 +18,4 @@ IoT Python Event Sourcing Cache Invalidation Data Science Algorithm Cloud Functi
 Quantum Computing Neural Networks Sharding API Gateway IoT Kubernetes The only way to do great work is to love what you do. Optimization Kafka Act as if what you do makes a difference. It does. Great things never come from comfort zones. Pull Request
 Kubernetes Microservices JWT Sharding Distributed Systems Virtual Machines If you can dream it, you can do it. Testing Framework Zero Downtime Deployment OAuth JavaScript API Gateway Server Response
 Logging Code Review Backend Containerization Distributed Systems Simplicity is the ultimate sophistication.
+Sharding Database Indexing Firewalls UX Optimization Load Testing Container Orchestration React I find that the harder I work, the more luck I seem to have. Logging
