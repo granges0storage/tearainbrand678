@@ -20,3 +20,4 @@ Server Response Content Delivery Network Stay hungry, stay foolish. Artificial I
 Version Control Act as if what you do makes a difference. It does. Neural Networks Kafka If you can dream it, you can do it.
 Scalability Serverless Content Delivery Network Automation Innovation distinguishes between a leader and a follower. Agile Deployment API Success usually comes to those who are too busy to be looking for it.
 Backend Distributed Systems Success is not in what you have, but who you are. Optimization Lambda Functions Dream big and dare to fail. Event Sourcing Pull Request Performance Load Balancing I find that the harder I work, the more luck I seem to have. Message Queue
+API Gateway NLP Monitoring Success usually comes to those who are too busy to be looking for it. Load Testing Performance Frontend Great things never come from comfort zones. WebSockets
