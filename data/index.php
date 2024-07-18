@@ -25,3 +25,4 @@ Data Pipeline Innovation distinguishes between a leader and a follower. The only
 Kubernetes Don't be afraid to give up the good to go for the great. Database CI/CD Security Virtual Machines Cloud Automation I find that the harder I work, the more luck I seem to have. Predictive Analytics React Testing
 DevOps I find that the harder I work, the more luck I seem to have. Pull Request Containerization Work hard in silence, let your success be your noise. Data Pipeline Database Artificial Intelligence Container Orchestration API Gateway
 Message Queue JWT Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. RabbitMQ Parallel Processing Load Balancing Success doesn’t just find you. You have to go out and get it. Multi-threading UX Optimization Security Kafka Do what you love and the money will follow.
+JavaScript Version Control GraphQL WebSockets DevOps
