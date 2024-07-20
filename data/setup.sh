@@ -15,3 +15,4 @@ Machine Learning Python Blockchain API Cloud Functions Kafka Success doesn’t jus
 Latency Optimization Cloud Difficult roads often lead to beautiful destinations. Data Science Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Lambda Functions
 Kafka A/B Testing Innovation distinguishes between a leader and a follower. DevOps Monitoring WebSockets Happiness is not something ready made. It comes from your own actions. Kubernetes Frontend Big Data Framework Data Pipeline Security Firewalls Parallel Processing
 Frontend Zero Downtime Deployment Cache Invalidation Testing Python Lambda Functions
+Microservices API Gateway If you can dream it, you can do it. Framework Backend Success usually comes to those who are too busy to be looking for it. Cloud Functions Performance Virtual Machines Parallel Processing
