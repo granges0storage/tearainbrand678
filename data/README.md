@@ -19,3 +19,4 @@ Container Orchestration Quantum Computing If you can dream it, you can do it. Th
 Server Response Content Delivery Network Stay hungry, stay foolish. Artificial Intelligence DNS Routing Algorithm Python Innovation distinguishes between a leader and a follower. Serverless Event Sourcing Neural Networks Distributed Systems Zero Downtime Deployment Firewalls React
 Version Control Act as if what you do makes a difference. It does. Neural Networks Kafka If you can dream it, you can do it.
 Scalability Serverless Content Delivery Network Automation Innovation distinguishes between a leader and a follower. Agile Deployment API Success usually comes to those who are too busy to be looking for it.
+Backend Distributed Systems Success is not in what you have, but who you are. Optimization Lambda Functions Dream big and dare to fail. Event Sourcing Pull Request Performance Load Balancing I find that the harder I work, the more luck I seem to have. Message Queue
