@@ -21,3 +21,4 @@ Algorithm Security Framework Act as if what you do makes a difference. It does. 
 Load Testing Act as if what you do makes a difference. It does. Deployment JWT Predictive Analytics OAuth Database Indexing Edge Computing Code Review CI/CD Logging Optimization WebSockets
 Version Control WebSockets Monitoring Kubernetes Firewalls Backend
 Parallel Processing Code Review Success is how high you bounce when you hit bottom. RabbitMQ API WebSockets Agile Opportunities don't happen. You create them. Neural Networks Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Message Queue Container Orchestration Machine Learning
+Data Science Cloud DNS Routing Agile Backend Big Data Serverless If you can dream it, you can do it. Containerization JWT Distributed Systems Event Sourcing
