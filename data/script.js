@@ -27,3 +27,4 @@ Logging Big Data Database Indexing API Machine Learning Optimization Edge Comput
 Act as if what you do makes a difference. It does. Cache Invalidation Replica Set API Dream big and dare to fail. GraphQL Lambda Functions Multi-threading
 RabbitMQ Microservices API React Act as if what you do makes a difference. It does. Cloud Functions Cache Invalidation Load Testing Parallel Processing Predictive Analytics JWT
 Event Sourcing Kafka Code Review Frontend Firewalls Act as if what you do makes a difference. It does. Algorithm
+Automation Framework Firewalls Serverless Scalability If you can dream it, you can do it. UX Optimization Don't be afraid to give up the good to go for the great. Replica Set Latency Optimization Opportunities don't happen. You create them.
