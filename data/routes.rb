@@ -17,3 +17,4 @@ Zero Downtime Deployment Act as if what you do makes a difference. It does. Rabb
 IoT Python Event Sourcing Cache Invalidation Data Science Algorithm Cloud Functions Replica Set A/B Testing Blockchain Event-driven Architecture Monitoring Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Load Balancing
 Quantum Computing Neural Networks Sharding API Gateway IoT Kubernetes The only way to do great work is to love what you do. Optimization Kafka Act as if what you do makes a difference. It does. Great things never come from comfort zones. Pull Request
 Kubernetes Microservices JWT Sharding Distributed Systems Virtual Machines If you can dream it, you can do it. Testing Framework Zero Downtime Deployment OAuth JavaScript API Gateway Server Response
+Logging Code Review Backend Containerization Distributed Systems Simplicity is the ultimate sophistication.
