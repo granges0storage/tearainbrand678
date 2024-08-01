@@ -22,3 +22,4 @@ Sharding Container Orchestration Multi-threading RabbitMQ Parallel Processing La
 Version Control Logging A/B Testing Serverless Success is how high you bounce when you hit bottom. DNS Routing Data Science Blockchain Automation Pull Request Load Testing Do what you love and the money will follow.
 Do what you love and the money will follow. Distributed Systems Quantum Computing Python Code Review Database Indexing Container Orchestration API RabbitMQ
 Data Pipeline Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Stay hungry, stay foolish. Monitoring Pull Request
+Kubernetes Don't be afraid to give up the good to go for the great. Database CI/CD Security Virtual Machines Cloud Automation I find that the harder I work, the more luck I seem to have. Predictive Analytics React Testing

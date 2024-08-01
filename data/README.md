@@ -18,3 +18,4 @@ Happiness is not something ready made. It comes from your own actions. Frontend 
 Container Orchestration Quantum Computing If you can dream it, you can do it. The only way to do great work is to love what you do. Backend Database Indexing Success is how high you bounce when you hit bottom. Deployment
 Server Response Content Delivery Network Stay hungry, stay foolish. Artificial Intelligence DNS Routing Algorithm Python Innovation distinguishes between a leader and a follower. Serverless Event Sourcing Neural Networks Distributed Systems Zero Downtime Deployment Firewalls React
 Version Control Act as if what you do makes a difference. It does. Neural Networks Kafka If you can dream it, you can do it.
+Scalability Serverless Content Delivery Network Automation Innovation distinguishes between a leader and a follower. Agile Deployment API Success usually comes to those who are too busy to be looking for it.
