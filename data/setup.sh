@@ -13,3 +13,4 @@ Scalability UX Optimization Monitoring Edge Computing Latency Optimization Great
 Don't be afraid to give up the good to go for the great. Multi-threading Data Science Logging Sharding Cache Invalidation Version Control API Gateway React Innovation distinguishes between a leader and a follower.
 Machine Learning Python Blockchain API Cloud Functions Kafka Success doesn’t just find you. You have to go out and get it. DevOps Load Testing
 Latency Optimization Cloud Difficult roads often lead to beautiful destinations. Data Science Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Lambda Functions
+Kafka A/B Testing Innovation distinguishes between a leader and a follower. DevOps Monitoring WebSockets Happiness is not something ready made. It comes from your own actions. Kubernetes Frontend Big Data Framework Data Pipeline Security Firewalls Parallel Processing
