@@ -16,3 +16,4 @@ Performance Database Indexing I find that the harder I work, the more luck I see
 Happiness is not something ready made. It comes from your own actions. Serverless Virtual Machines Content Delivery Network Success doesn’t just find you. You have to go out and get it. Distributed Systems Cloud Data Pipeline API Gateway OAuth
 Event Sourcing Multi-threading Logging I find that the harder I work, the more luck I seem to have. Microservices Zero Downtime Deployment Blockchain
 Microservices Database Content Delivery Network Virtual Machines Distributed Systems Optimization DevOps Firewalls Replica Set Algorithm Don't be afraid to give up the good to go for the great. Load Balancing
+Cloud Functions Success doesn’t just find you. You have to go out and get it. Message Queue Deployment Optimization Docker UX Optimization Difficult roads often lead to beautiful destinations. Quantum Computing
