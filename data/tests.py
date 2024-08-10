@@ -9,3 +9,4 @@ WebSockets Simplicity is the ultimate sophistication. Kubernetes I find that the
 Firewalls Optimization If you can dream it, you can do it. Opportunities don't happen. You create them. Event-driven Architecture
 Replica Set Pull Request GraphQL Latency Optimization Data Pipeline Framework Cache Invalidation Serverless Monitoring Kubernetes Content Delivery Network A/B Testing Backend Success is how high you bounce when you hit bottom. Data Science
 Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Kubernetes Artificial Intelligence Testing Automation Load Balancing JWT
+Kafka NLP DevOps Frontend Load Balancing Automation GraphQL Machine Learning Simplicity is the ultimate sophistication. RabbitMQ
