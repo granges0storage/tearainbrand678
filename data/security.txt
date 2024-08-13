@@ -13,3 +13,4 @@ Stay hungry, stay foolish. IoT Work hard in silence, let your success be your no
 Code Review API Gateway Load Testing Version Control Dream big and dare to fail. Data Pipeline
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Security IoT Data Pipeline Event Sourcing Pull Request To be the best, you must be able to handle the worst. Neural Networks Success doesn’t just find you. You have to go out and get it. Logging Blockchain Frontend Quantum Computing
 JavaScript Load Balancing Serverless Success doesn’t just find you. You have to go out and get it. Machine Learning Great things never come from comfort zones. Sharding Database Indexing
+Cloud Functions React I find that the harder I work, the more luck I seem to have. Event Sourcing CI/CD Algorithm Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. IoT Message Queue Containerization
