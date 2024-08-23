@@ -20,3 +20,4 @@ Monitoring Scalability Success doesn’t just find you. You have to go out and get
 Database Indexing Cache Invalidation Virtual Machines Neural Networks React Framework
 Lambda Functions Innovation distinguishes between a leader and a follower. Database Indexing Artificial Intelligence Blockchain API Cloud Microservices Event Sourcing Data Science
 Framework Parallel Processing Content Delivery Network Kafka Edge Computing The only way to do great work is to love what you do. Cloud Functions Monitoring Database NLP Opportunities don't happen. You create them. Lambda Functions Code Review GraphQL Virtual Machines
+UX Optimization Innovation distinguishes between a leader and a follower. Distributed Systems Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. API Gateway Data Science Artificial Intelligence JWT

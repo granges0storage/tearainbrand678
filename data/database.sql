@@ -14,3 +14,4 @@ Parallel Processing Artificial Intelligence Neural Networks Success doesn’t just
 Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Load Balancing
 Performance Database Indexing I find that the harder I work, the more luck I seem to have. Version Control Testing Cache Invalidation
 Happiness is not something ready made. It comes from your own actions. Serverless Virtual Machines Content Delivery Network Success doesn’t just find you. You have to go out and get it. Distributed Systems Cloud Data Pipeline API Gateway OAuth
+Event Sourcing Multi-threading Logging I find that the harder I work, the more luck I seem to have. Microservices Zero Downtime Deployment Blockchain
