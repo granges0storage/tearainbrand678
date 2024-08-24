@@ -22,3 +22,4 @@ To be the best, you must be able to handle the worst. Algorithm Blockchain Succe
 API Message Queue Virtual Machines Distributed Systems Big Data
 Edge Computing React Automation Stay hungry, stay foolish. Data Science Quantum Computing
 Database Database Indexing Containerization NLP Deployment React Work hard in silence, let your success be your noise. Kubernetes Cloud Docker Innovation distinguishes between a leader and a follower. JavaScript Backend Lambda Functions
+Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. UX Optimization Load Testing Agile DevOps Firewalls OAuth Backend API

@@ -26,3 +26,4 @@ Big Data Success is not in what you have, but who you are. DNS Routing IoT API G
 Logging Big Data Database Indexing API Machine Learning Optimization Edge Computing Security GraphQL WebSockets Version Control Simplicity is the ultimate sophistication. Quantum Computing Framework
 Act as if what you do makes a difference. It does. Cache Invalidation Replica Set API Dream big and dare to fail. GraphQL Lambda Functions Multi-threading
 RabbitMQ Microservices API React Act as if what you do makes a difference. It does. Cloud Functions Cache Invalidation Load Testing Parallel Processing Predictive Analytics JWT
+Event Sourcing Kafka Code Review Frontend Firewalls Act as if what you do makes a difference. It does. Algorithm
