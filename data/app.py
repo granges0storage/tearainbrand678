@@ -12,3 +12,4 @@ Great things never come from comfort zones. Stay hungry, stay foolish. Cache Inv
 To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Predictive Analytics Latency Optimization Message Queue
 API Gateway Automation Data Pipeline DNS Routing Backend
 Stay hungry, stay foolish. Security Cloud Database Automation The only way to do great work is to love what you do. If you can dream it, you can do it. Data Science
+Data Pipeline Event-driven Architecture Serverless Data Science Distributed Systems Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. CI/CD Database Indexing Database
