@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. Cloud Functions Logging I 
 A/B Testing Machine Learning Monitoring Automation Database Indexing Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Lambda Functions Latency Optimization Python
 Happiness is not something ready made. It comes from your own actions. Frontend Lambda Functions Framework JWT
 Container Orchestration Quantum Computing If you can dream it, you can do it. The only way to do great work is to love what you do. Backend Database Indexing Success is how high you bounce when you hit bottom. Deployment
+Server Response Content Delivery Network Stay hungry, stay foolish. Artificial Intelligence DNS Routing Algorithm Python Innovation distinguishes between a leader and a follower. Serverless Event Sourcing Neural Networks Distributed Systems Zero Downtime Deployment Firewalls React

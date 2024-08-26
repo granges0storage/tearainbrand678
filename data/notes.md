@@ -19,3 +19,4 @@ To be the best, you must be able to handle the worst. A/B Testing Neural Network
 Monitoring Scalability Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Testing Cloud Containerization Sharding Cloud Functions Kafka Python
 Database Indexing Cache Invalidation Virtual Machines Neural Networks React Framework
 Lambda Functions Innovation distinguishes between a leader and a follower. Database Indexing Artificial Intelligence Blockchain API Cloud Microservices Event Sourcing Data Science
+Framework Parallel Processing Content Delivery Network Kafka Edge Computing The only way to do great work is to love what you do. Cloud Functions Monitoring Database NLP Opportunities don't happen. You create them. Lambda Functions Code Review GraphQL Virtual Machines

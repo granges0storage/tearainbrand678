@@ -18,3 +18,4 @@ Difficult roads often lead to beautiful destinations. Work hard in silence, let 
 Monitoring Docker Predictive Analytics Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Distributed Systems JWT
 WebSockets NLP Containerization Great things never come from comfort zones. Success is how high you bounce when you hit bottom. DNS Routing Version Control Load Balancing Server Response Performance
 I find that the harder I work, the more luck I seem to have. Algorithm JavaScript Success is not in what you have, but who you are. RabbitMQ Multi-threading Data Science Great things never come from comfort zones. Latency Optimization To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise.
+Python Edge Computing Virtual Machines Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Microservices
