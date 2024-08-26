@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. Success is how high you
 Great things never come from comfort zones. Stay hungry, stay foolish. Cache Invalidation Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Multi-threading
 To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Predictive Analytics Latency Optimization Message Queue
 API Gateway Automation Data Pipeline DNS Routing Backend
+Stay hungry, stay foolish. Security Cloud Database Automation The only way to do great work is to love what you do. If you can dream it, you can do it. Data Science
