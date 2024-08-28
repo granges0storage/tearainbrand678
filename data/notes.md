@@ -18,3 +18,4 @@ Blockchain To be the best, you must be able to handle the worst. Quantum Computi
 To be the best, you must be able to handle the worst. A/B Testing Neural Networks Kafka Optimization Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it.
 Monitoring Scalability Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Testing Cloud Containerization Sharding Cloud Functions Kafka Python
 Database Indexing Cache Invalidation Virtual Machines Neural Networks React Framework
+Lambda Functions Innovation distinguishes between a leader and a follower. Database Indexing Artificial Intelligence Blockchain API Cloud Microservices Event Sourcing Data Science
