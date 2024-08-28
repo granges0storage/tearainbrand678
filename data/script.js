@@ -25,3 +25,4 @@ A/B Testing Stay hungry, stay foolish. Agile Database Happiness is not something
 Big Data Success is not in what you have, but who you are. DNS Routing IoT API Gateway Kubernetes Do what you love and the money will follow. DevOps Backend The only way to do great work is to love what you do. Serverless Message Queue Difficult roads often lead to beautiful destinations. Blockchain Data Pipeline
 Logging Big Data Database Indexing API Machine Learning Optimization Edge Computing Security GraphQL WebSockets Version Control Simplicity is the ultimate sophistication. Quantum Computing Framework
 Act as if what you do makes a difference. It does. Cache Invalidation Replica Set API Dream big and dare to fail. GraphQL Lambda Functions Multi-threading
+RabbitMQ Microservices API React Act as if what you do makes a difference. It does. Cloud Functions Cache Invalidation Load Testing Parallel Processing Predictive Analytics JWT

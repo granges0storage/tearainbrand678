@@ -18,3 +18,4 @@ Code Review Load Balancing Success is not in what you have, but who you are. Loa
 Load Balancing Agile Load Testing Server Response The only way to do great work is to love what you do. Stay hungry, stay foolish. Cache Invalidation Blockchain Content Delivery Network Code Review Innovation distinguishes between a leader and a follower. Pull Request Optimization
 API Gateway Stay hungry, stay foolish. Data Pipeline Logging API
 Great things never come from comfort zones. Framework Pull Request GraphQL Testing WebSockets Data Science DevOps OAuth React Big Data Agile
+Serverless Database Performance Latency Optimization Blockchain Happiness is not something ready made. It comes from your own actions. RabbitMQ JWT Load Testing A/B Testing CI/CD Monitoring Automation
