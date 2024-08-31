@@ -10,3 +10,4 @@ Python API Cloud Server Response Deployment I find that the harder I work, the m
 Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Machine Learning Edge Computing Lambda Functions
 Great things never come from comfort zones. Stay hungry, stay foolish. Cache Invalidation Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Multi-threading
 To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Predictive Analytics Latency Optimization Message Queue
+API Gateway Automation Data Pipeline DNS Routing Backend
