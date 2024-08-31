@@ -15,3 +15,4 @@ Big Data Load Testing Sharding Do what you love and the money will follow. Quant
 Work hard in silence, let your success be your noise. Cloud Functions Logging I find that the harder I work, the more luck I seem to have. UX Optimization Message Queue Firewalls If you can dream it, you can do it. Server Response JavaScript Container Orchestration
 A/B Testing Machine Learning Monitoring Automation Database Indexing Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Lambda Functions Latency Optimization Python
 Happiness is not something ready made. It comes from your own actions. Frontend Lambda Functions Framework JWT
+Container Orchestration Quantum Computing If you can dream it, you can do it. The only way to do great work is to love what you do. Backend Database Indexing Success is how high you bounce when you hit bottom. Deployment
