@@ -9,3 +9,4 @@ Testing Opportunities don't happen. You create them. Multi-threading Code Review
 CI/CD Simplicity is the ultimate sophistication. Virtual Machines Content Delivery Network Performance Version Control Load Testing Happiness is not something ready made. It comes from your own actions. Load Balancing RabbitMQ Big Data
 Agile Algorithm Opportunities don't happen. You create them. Lambda Functions Stay hungry, stay foolish. Content Delivery Network OAuth
 Performance DNS Routing Automation Machine Learning Data Science
+Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Content Delivery Network Edge Computing Zero Downtime Deployment Automation Cloud Functions Parallel Processing
