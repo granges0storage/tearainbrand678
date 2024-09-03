@@ -20,3 +20,4 @@ Monitoring Success is how high you bounce when you hit bottom. Data Pipeline Zer
 Python IoT Quantum Computing Database Indexing Big Data API Gateway To be the best, you must be able to handle the worst. Monitoring Docker Performance API Edge Computing Artificial Intelligence Lambda Functions
 Sharding Container Orchestration Multi-threading RabbitMQ Parallel Processing Latency Optimization IoT Data Pipeline Stay hungry, stay foolish. Do what you love and the money will follow. Agile Backend Great things never come from comfort zones. Quantum Computing
 Version Control Logging A/B Testing Serverless Success is how high you bounce when you hit bottom. DNS Routing Data Science Blockchain Automation Pull Request Load Testing Do what you love and the money will follow.
+Do what you love and the money will follow. Distributed Systems Quantum Computing Python Code Review Database Indexing Container Orchestration API RabbitMQ
