@@ -17,3 +17,4 @@ Backend Distributed Systems API Blockchain WebSockets Version Control Virtual Ma
 Load Testing Deployment The only way to do great work is to love what you do. Great things never come from comfort zones. IoT Virtual Machines Work hard in silence, let your success be your noise. Frontend DNS Routing Load Balancing Success usually comes to those who are too busy to be looking for it. API Quantum Computing
 Load Testing Innovation distinguishes between a leader and a follower. Agile WebSockets Serverless Testing Replica Set
 Agile Simplicity is the ultimate sophistication. Logging Stay hungry, stay foolish. Dream big and dare to fail. Firewalls Testing
+Backend JWT Code Review Innovation distinguishes between a leader and a follower. Latency Optimization Optimization Success is not in what you have, but who you are. Predictive Analytics Framework Cloud Functions Edge Computing
