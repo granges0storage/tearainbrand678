@@ -14,3 +14,4 @@ To be the best, you must be able to handle the worst. Automation Success is how 
 Big Data Load Testing Sharding Do what you love and the money will follow. Quantum Computing Security Agile If you can dream it, you can do it. NLP I find that the harder I work, the more luck I seem to have. UX Optimization
 Work hard in silence, let your success be your noise. Cloud Functions Logging I find that the harder I work, the more luck I seem to have. UX Optimization Message Queue Firewalls If you can dream it, you can do it. Server Response JavaScript Container Orchestration
 A/B Testing Machine Learning Monitoring Automation Database Indexing Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Lambda Functions Latency Optimization Python
+Happiness is not something ready made. It comes from your own actions. Frontend Lambda Functions Framework JWT
