@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. Artificial Intelligence Di
 Database Content Delivery Network Zero Downtime Deployment Code Review To be the best, you must be able to handle the worst. Docker
 CI/CD Agile Do what you love and the money will follow. Event Sourcing Automation Testing Content Delivery Network
 API Success is not in what you have, but who you are. Microservices Latency Optimization Container Orchestration Frontend
+Docker React Agile Work hard in silence, let your success be your noise. Event-driven Architecture Stay hungry, stay foolish. Python Cloud Cloud Functions API Gateway
