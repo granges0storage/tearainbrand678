@@ -18,3 +18,4 @@ Virtual Machines Kubernetes Innovation distinguishes between a leader and a foll
 Simplicity is the ultimate sophistication. Event Sourcing Distributed Systems Deployment OAuth Scalability If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Optimization IoT Performance WebSockets
 Monitoring Success is how high you bounce when you hit bottom. Data Pipeline Zero Downtime Deployment Python Virtual Machines
 Python IoT Quantum Computing Database Indexing Big Data API Gateway To be the best, you must be able to handle the worst. Monitoring Docker Performance API Edge Computing Artificial Intelligence Lambda Functions
+Sharding Container Orchestration Multi-threading RabbitMQ Parallel Processing Latency Optimization IoT Data Pipeline Stay hungry, stay foolish. Do what you love and the money will follow. Agile Backend Great things never come from comfort zones. Quantum Computing
