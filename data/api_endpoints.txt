@@ -13,3 +13,4 @@ Virtual Machines Multi-threading React Logging DNS Routing Don't be afraid to gi
 Zero Downtime Deployment UX Optimization Latency Optimization Pull Request Automation Opportunities don't happen. You create them. Optimization
 Event Sourcing Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Cache Invalidation Difficult roads often lead to beautiful destinations. Edge Computing JavaScript
 Testing Replica Set JWT Simplicity is the ultimate sophistication. Code Review Optimization Parallel Processing Algorithm If you can dream it, you can do it.
+Serverless JWT Backend Security To be the best, you must be able to handle the worst. Deployment
