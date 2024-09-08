@@ -14,3 +14,4 @@ Load Testing Replica Set A/B Testing Content Delivery Network Deployment Data Pi
 API Gateway Logging Frontend DNS Routing Backend WebSockets A/B Testing Event Sourcing Zero Downtime Deployment Deployment Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have.
 Work hard in silence, let your success be your noise. Artificial Intelligence Distributed Systems Load Testing I find that the harder I work, the more luck I seem to have. Logging IoT Cache Invalidation Server Response Monitoring NLP UX Optimization Do what you love and the money will follow.
 Database Content Delivery Network Zero Downtime Deployment Code Review To be the best, you must be able to handle the worst. Docker
+CI/CD Agile Do what you love and the money will follow. Event Sourcing Automation Testing Content Delivery Network
