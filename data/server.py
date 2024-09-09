@@ -16,3 +16,4 @@ Microservices Predictive Analytics Message Queue I find that the harder I work, 
 Cloud Artificial Intelligence UX Optimization Testing WebSockets API Gateway Algorithm Frontend Simplicity is the ultimate sophistication. Python Innovation distinguishes between a leader and a follower.
 Code Review Load Balancing Success is not in what you have, but who you are. Load Testing Kubernetes Stay hungry, stay foolish. DevOps
 Load Balancing Agile Load Testing Server Response The only way to do great work is to love what you do. Stay hungry, stay foolish. Cache Invalidation Blockchain Content Delivery Network Code Review Innovation distinguishes between a leader and a follower. Pull Request Optimization
+API Gateway Stay hungry, stay foolish. Data Pipeline Logging API
