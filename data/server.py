@@ -14,3 +14,4 @@ Kubernetes GraphQL Event Sourcing Success usually comes to those who are too bus
 Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Success is how high you bounce when you hit bottom. CI/CD Docker NLP API Simplicity is the ultimate sophistication. Optimization DNS Routing Predictive Analytics Data Science
 Microservices Predictive Analytics Message Queue I find that the harder I work, the more luck I seem to have. Parallel Processing Testing Deployment Edge Computing Database OAuth IoT
 Cloud Artificial Intelligence UX Optimization Testing WebSockets API Gateway Algorithm Frontend Simplicity is the ultimate sophistication. Python Innovation distinguishes between a leader and a follower.
+Code Review Load Balancing Success is not in what you have, but who you are. Load Testing Kubernetes Stay hungry, stay foolish. DevOps

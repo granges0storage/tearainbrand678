@@ -14,3 +14,4 @@ Container Orchestration React Cloud Functions Load Testing DNS Routing Load Bala
 Artificial Intelligence Server Response Do what you love and the money will follow. CI/CD Container Orchestration
 A/B Testing Difficult roads often lead to beautiful destinations. CI/CD Scalability Firewalls API Virtual Machines Data Science To be the best, you must be able to handle the worst. OAuth NLP
 Zero Downtime Deployment Act as if what you do makes a difference. It does. RabbitMQ Simplicity is the ultimate sophistication. Virtual Machines Automation Predictive Analytics Cloud Functions WebSockets A/B Testing Container Orchestration
+IoT Python Event Sourcing Cache Invalidation Data Science Algorithm Cloud Functions Replica Set A/B Testing Blockchain Event-driven Architecture Monitoring Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Load Balancing
