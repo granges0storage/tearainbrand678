@@ -19,3 +19,4 @@ Database CI/CD Backend React Success doesn’t just find you. You have to go out a
 Code Review Microservices WebSockets Cloud Testing Cache Invalidation Stay hungry, stay foolish.
 Algorithm Security Framework Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. JWT Lambda Functions Serverless Stay hungry, stay foolish. Opportunities don't happen. You create them.
 Load Testing Act as if what you do makes a difference. It does. Deployment JWT Predictive Analytics OAuth Database Indexing Edge Computing Code Review CI/CD Logging Optimization WebSockets
+Version Control WebSockets Monitoring Kubernetes Firewalls Backend
