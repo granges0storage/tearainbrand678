@@ -11,3 +11,4 @@ Parallel Processing Success is how high you bounce when you hit bottom. Message 
 Optimization Edge Computing Version Control Firewalls Python Message Queue Kubernetes Server Response Cache Invalidation RabbitMQ Container Orchestration Difficult roads often lead to beautiful destinations.
 Stay hungry, stay foolish. IoT Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Replica Set Pull Request JavaScript
 Code Review API Gateway Load Testing Version Control Dream big and dare to fail. Data Pipeline
+Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Security IoT Data Pipeline Event Sourcing Pull Request To be the best, you must be able to handle the worst. Neural Networks Success doesn’t just find you. You have to go out and get it. Logging Blockchain Frontend Quantum Computing
