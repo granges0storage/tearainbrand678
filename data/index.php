@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Event-driv
 Big Data Frontend Blockchain Cache Invalidation Zero Downtime Deployment Docker Deployment Load Testing Event Sourcing
 Virtual Machines Kubernetes Innovation distinguishes between a leader and a follower. Data Pipeline Edge Computing API Frontend RabbitMQ OAuth Zero Downtime Deployment Big Data Agile Success is not in what you have, but who you are. Multi-threading
 Simplicity is the ultimate sophistication. Event Sourcing Distributed Systems Deployment OAuth Scalability If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Optimization IoT Performance WebSockets
+Monitoring Success is how high you bounce when you hit bottom. Data Pipeline Zero Downtime Deployment Python Virtual Machines
