@@ -15,3 +15,4 @@ Difficult roads often lead to beautiful destinations. Success is not in what you
 Success doesn’t just find you. You have to go out and get it. Sharding OAuth Data Pipeline Great things never come from comfort zones. Database Indexing Framework Distributed Systems Lambda Functions Deployment
 Message Queue DNS Routing GraphQL Deployment Distributed Systems Success is not in what you have, but who you are. Testing Stay hungry, stay foolish. Algorithm DevOps
 Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Big Data Kafka Code Review Content Delivery Network Success is how high you bounce when you hit bottom. Framework OAuth Monitoring Artificial Intelligence Act as if what you do makes a difference. It does. API Gateway
+Monitoring Docker Predictive Analytics Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Distributed Systems JWT
