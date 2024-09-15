@@ -12,3 +12,4 @@ Multi-threading Success usually comes to those who are too busy to be looking fo
 Virtual Machines Multi-threading React Logging DNS Routing Don't be afraid to give up the good to go for the great. Firewalls Big Data Innovation distinguishes between a leader and a follower. Latency Optimization
 Zero Downtime Deployment UX Optimization Latency Optimization Pull Request Automation Opportunities don't happen. You create them. Optimization
 Event Sourcing Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Cache Invalidation Difficult roads often lead to beautiful destinations. Edge Computing JavaScript
+Testing Replica Set JWT Simplicity is the ultimate sophistication. Code Review Optimization Parallel Processing Algorithm If you can dream it, you can do it.
