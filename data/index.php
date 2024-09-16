@@ -15,3 +15,4 @@ Do what you love and the money will follow. Big Data Monitoring Dream big and da
 Success usually comes to those who are too busy to be looking for it. Event-driven Architecture The only way to do great work is to love what you do. Deployment WebSockets Multi-threading Difficult roads often lead to beautiful destinations.
 Big Data Frontend Blockchain Cache Invalidation Zero Downtime Deployment Docker Deployment Load Testing Event Sourcing
 Virtual Machines Kubernetes Innovation distinguishes between a leader and a follower. Data Pipeline Edge Computing API Frontend RabbitMQ OAuth Zero Downtime Deployment Big Data Agile Success is not in what you have, but who you are. Multi-threading
+Simplicity is the ultimate sophistication. Event Sourcing Distributed Systems Deployment OAuth Scalability If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Optimization IoT Performance WebSockets
