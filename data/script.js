@@ -23,3 +23,4 @@ Quantum Computing Success is how high you bounce when you hit bottom. Database S
 Stay hungry, stay foolish. Container Orchestration Message Queue Version Control Load Testing Event Sourcing Database Load Balancing Docker IoT Cloud Sharding Dream big and dare to fail. Algorithm Frontend
 A/B Testing Stay hungry, stay foolish. Agile Database Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
 Big Data Success is not in what you have, but who you are. DNS Routing IoT API Gateway Kubernetes Do what you love and the money will follow. DevOps Backend The only way to do great work is to love what you do. Serverless Message Queue Difficult roads often lead to beautiful destinations. Blockchain Data Pipeline
+Logging Big Data Database Indexing API Machine Learning Optimization Edge Computing Security GraphQL WebSockets Version Control Simplicity is the ultimate sophistication. Quantum Computing Framework
