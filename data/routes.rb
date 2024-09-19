@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. Event-driven Architecture 
 Container Orchestration React Cloud Functions Load Testing DNS Routing Load Balancing Difficult roads often lead to beautiful destinations. GraphQL RabbitMQ Machine Learning Artificial Intelligence Scalability
 Artificial Intelligence Server Response Do what you love and the money will follow. CI/CD Container Orchestration
 A/B Testing Difficult roads often lead to beautiful destinations. CI/CD Scalability Firewalls API Virtual Machines Data Science To be the best, you must be able to handle the worst. OAuth NLP
+Zero Downtime Deployment Act as if what you do makes a difference. It does. RabbitMQ Simplicity is the ultimate sophistication. Virtual Machines Automation Predictive Analytics Cloud Functions WebSockets A/B Testing Container Orchestration
