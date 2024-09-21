@@ -15,3 +15,4 @@ Cache Invalidation Event-driven Architecture Logging To be the best, you must be
 Serverless Security JWT Difficult roads often lead to beautiful destinations. Neural Networks Performance Event Sourcing Success doesn’t just find you. You have to go out and get it. Monitoring Container Orchestration
 Backend Distributed Systems API Blockchain WebSockets Version Control Virtual Machines Cloud Latency Optimization Algorithm Load Testing Parallel Processing NLP Stay hungry, stay foolish. Database
 Load Testing Deployment The only way to do great work is to love what you do. Great things never come from comfort zones. IoT Virtual Machines Work hard in silence, let your success be your noise. Frontend DNS Routing Load Balancing Success usually comes to those who are too busy to be looking for it. API Quantum Computing
+Load Testing Innovation distinguishes between a leader and a follower. Agile WebSockets Serverless Testing Replica Set
