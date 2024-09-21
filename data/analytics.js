@@ -12,3 +12,4 @@ Message Queue Backend Data Pipeline Monitoring Logging Parallel Processing Act a
 Data Pipeline Distributed Systems Success is not in what you have, but who you are. Stay hungry, stay foolish. Quantum Computing
 Load Testing Replica Set A/B Testing Content Delivery Network Deployment Data Pipeline Artificial Intelligence Load Balancing
 API Gateway Logging Frontend DNS Routing Backend WebSockets A/B Testing Event Sourcing Zero Downtime Deployment Deployment Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have.
+Work hard in silence, let your success be your noise. Artificial Intelligence Distributed Systems Load Testing I find that the harder I work, the more luck I seem to have. Logging IoT Cache Invalidation Server Response Monitoring NLP UX Optimization Do what you love and the money will follow.
