@@ -13,3 +13,4 @@ Server Response Success usually comes to those who are too busy to be looking fo
 Quantum Computing Opportunities don't happen. You create them. Latency Optimization Automation Scalability Serverless React Docker Blockchain Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Kafka Simplicity is the ultimate sophistication. Neural Networks
 Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Quantum Computing Pull Request Content Delivery Network Kafka Message Queue
 Success doesn’t just find you. You have to go out and get it. Sharding OAuth Data Pipeline Great things never come from comfort zones. Database Indexing Framework Distributed Systems Lambda Functions Deployment
+Message Queue DNS Routing GraphQL Deployment Distributed Systems Success is not in what you have, but who you are. Testing Stay hungry, stay foolish. Algorithm DevOps
