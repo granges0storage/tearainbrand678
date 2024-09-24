@@ -20,3 +20,4 @@ Success is not in what you have, but who you are. Kubernetes Frontend Big Data F
 Security Message Queue Replica Set Algorithm Cache Invalidation Database OAuth Event-driven Architecture
 Cache Invalidation Parallel Processing Success usually comes to those who are too busy to be looking for it. Lambda Functions Load Balancing Dream big and dare to fail. Neural Networks
 Quantum Computing Success is how high you bounce when you hit bottom. Database Serverless Success doesn’t just find you. You have to go out and get it. Container Orchestration Docker OAuth Testing Multi-threading Difficult roads often lead to beautiful destinations. NLP
+Stay hungry, stay foolish. Container Orchestration Message Queue Version Control Load Testing Event Sourcing Database Load Balancing Docker IoT Cloud Sharding Dream big and dare to fail. Algorithm Frontend

@@ -6,3 +6,4 @@ Version Control GraphQL CI/CD To be the best, you must be able to handle the wor
 Latency Optimization NLP Lambda Functions Quantum Computing Database Indexing Work hard in silence, let your success be your noise.
 CI/CD Docker Machine Learning Data Pipeline Success is not in what you have, but who you are. Backend Replica Set Multi-threading Optimization Containerization Load Testing Edge Computing Opportunities don't happen. You create them. Zero Downtime Deployment DNS Routing
 WebSockets Simplicity is the ultimate sophistication. Kubernetes I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Lambda Functions Algorithm Data Science Content Delivery Network If you can dream it, you can do it. CI/CD JavaScript
+Firewalls Optimization If you can dream it, you can do it. Opportunities don't happen. You create them. Event-driven Architecture
