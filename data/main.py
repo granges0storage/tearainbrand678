@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Pull Request Agile Artific
 Load Testing Cloud DNS Routing Backend Code Review Docker OAuth Distributed Systems Scalability Data Science Artificial Intelligence
 Cache Invalidation Event-driven Architecture Logging To be the best, you must be able to handle the worst. Machine Learning
 Serverless Security JWT Difficult roads often lead to beautiful destinations. Neural Networks Performance Event Sourcing Success doesn’t just find you. You have to go out and get it. Monitoring Container Orchestration
+Backend Distributed Systems API Blockchain WebSockets Version Control Virtual Machines Cloud Latency Optimization Algorithm Load Testing Parallel Processing NLP Stay hungry, stay foolish. Database
