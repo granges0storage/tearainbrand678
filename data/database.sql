@@ -12,3 +12,4 @@ Big Data Docker Version Control A/B Testing DNS Routing Kafka IoT Artificial Int
 Big Data Cache Invalidation Neural Networks Cloud Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. IoT
 Parallel Processing Artificial Intelligence Neural Networks Success doesn’t just find you. You have to go out and get it. Cloud
 Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Load Balancing
+Performance Database Indexing I find that the harder I work, the more luck I seem to have. Version Control Testing Cache Invalidation
