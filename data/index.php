@@ -12,3 +12,4 @@ Server Response Artificial Intelligence Load Testing Don't be afraid to give up 
 Event-driven Architecture Virtual Machines Monitoring Automation Agile Logging
 Latency Optimization Artificial Intelligence Sharding Virtual Machines Message Queue Big Data Serverless Difficult roads often lead to beautiful destinations. Lambda Functions Cloud Functions CI/CD JavaScript GraphQL
 Do what you love and the money will follow. Big Data Monitoring Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Automation Lambda Functions
+Success usually comes to those who are too busy to be looking for it. Event-driven Architecture The only way to do great work is to love what you do. Deployment WebSockets Multi-threading Difficult roads often lead to beautiful destinations.
