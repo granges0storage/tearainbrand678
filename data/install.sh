@@ -17,3 +17,4 @@ Kafka Latency Optimization To be the best, you must be able to handle the worst.
 CI/CD Framework Artificial Intelligence Don't be afraid to give up the good to go for the great. Containerization Message Queue Logging Database Blockchain If you can dream it, you can do it. Data Pipeline Optimization Testing
 Database CI/CD Backend React Success doesn’t just find you. You have to go out and get it. Automation Agile Predictive Analytics Containerization Load Balancing
 Code Review Microservices WebSockets Cloud Testing Cache Invalidation Stay hungry, stay foolish.
+Algorithm Security Framework Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. JWT Lambda Functions Serverless Stay hungry, stay foolish. Opportunities don't happen. You create them.
