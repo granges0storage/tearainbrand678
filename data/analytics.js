@@ -10,3 +10,4 @@ Event-driven Architecture Database I find that the harder I work, the more luck 
 Opportunities don't happen. You create them. Pull Request Difficult roads often lead to beautiful destinations. Parallel Processing RabbitMQ I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Lambda Functions Multi-threading Neural Networks Load Testing
 Message Queue Backend Data Pipeline Monitoring Logging Parallel Processing Act as if what you do makes a difference. It does. Cloud Functions CI/CD UX Optimization Automation Container Orchestration JavaScript Deployment Stay hungry, stay foolish.
 Data Pipeline Distributed Systems Success is not in what you have, but who you are. Stay hungry, stay foolish. Quantum Computing
+Load Testing Replica Set A/B Testing Content Delivery Network Deployment Data Pipeline Artificial Intelligence Load Balancing
