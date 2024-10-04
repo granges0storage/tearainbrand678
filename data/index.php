@@ -10,3 +10,4 @@ Testing Simplicity is the ultimate sophistication. Cloud Load Balancing Deployme
 Message Queue Artificial Intelligence Do what you love and the money will follow. Containerization Kubernetes IoT Cloud Functions Scalability Predictive Analytics Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. DNS Routing
 Server Response Artificial Intelligence Load Testing Don't be afraid to give up the good to go for the great. Code Review
 Event-driven Architecture Virtual Machines Monitoring Automation Agile Logging
+Latency Optimization Artificial Intelligence Sharding Virtual Machines Message Queue Big Data Serverless Difficult roads often lead to beautiful destinations. Lambda Functions Cloud Functions CI/CD JavaScript GraphQL
