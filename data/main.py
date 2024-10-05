@@ -12,3 +12,4 @@ Container Orchestration Python Testing Opportunities don't happen. You create th
 Difficult roads often lead to beautiful destinations. Pull Request Agile Artificial Intelligence The only way to do great work is to love what you do. Blockchain Security Event Sourcing
 Load Testing Cloud DNS Routing Backend Code Review Docker OAuth Distributed Systems Scalability Data Science Artificial Intelligence
 Cache Invalidation Event-driven Architecture Logging To be the best, you must be able to handle the worst. Machine Learning
+Serverless Security JWT Difficult roads often lead to beautiful destinations. Neural Networks Performance Event Sourcing Success doesn’t just find you. You have to go out and get it. Monitoring Container Orchestration
