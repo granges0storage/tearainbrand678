@@ -11,3 +11,4 @@ Replica Set Dream big and dare to fail. Version Control A/B Testing NLP Message 
 Container Orchestration Python Testing Opportunities don't happen. You create them. CI/CD Optimization Docker Lambda Functions Firewalls Logging Quantum Computing Predictive Analytics
 Difficult roads often lead to beautiful destinations. Pull Request Agile Artificial Intelligence The only way to do great work is to love what you do. Blockchain Security Event Sourcing
 Load Testing Cloud DNS Routing Backend Code Review Docker OAuth Distributed Systems Scalability Data Science Artificial Intelligence
+Cache Invalidation Event-driven Architecture Logging To be the best, you must be able to handle the worst. Machine Learning
