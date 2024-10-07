@@ -15,3 +15,4 @@ Simplicity is the ultimate sophistication. API Backend Content Delivery Network 
 Cloud Functions WebSockets Event Sourcing Kafka Dream big and dare to fail.
 Algorithm Neural Networks Predictive Analytics Backend Don't be afraid to give up the good to go for the great. NLP Firewalls Python
 Blockchain To be the best, you must be able to handle the worst. Quantum Computing Container Orchestration Code Review Testing A/B Testing Content Delivery Network Success is how high you bounce when you hit bottom. Serverless Backend Agile Neural Networks Logging
+To be the best, you must be able to handle the worst. A/B Testing Neural Networks Kafka Optimization Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it.
