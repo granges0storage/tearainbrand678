@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. Microservices I find that the harder 
 Agile Big Data The only way to do great work is to love what you do. Server Response Monitoring Code Review Blockchain Backend Artificial Intelligence
 Success is not in what you have, but who you are. Kubernetes Frontend Big Data Firewalls Data Pipeline Do what you love and the money will follow. Cloud Functions Load Balancing Load Testing
 Security Message Queue Replica Set Algorithm Cache Invalidation Database OAuth Event-driven Architecture
+Cache Invalidation Parallel Processing Success usually comes to those who are too busy to be looking for it. Lambda Functions Load Balancing Dream big and dare to fail. Neural Networks

@@ -14,3 +14,4 @@ Database Indexing Replica Set Deployment DevOps A/B Testing OAuth Performance Se
 Simplicity is the ultimate sophistication. API Backend Content Delivery Network Do what you love and the money will follow. Database Indexing Database Success doesn’t just find you. You have to go out and get it. WebSockets
 Cloud Functions WebSockets Event Sourcing Kafka Dream big and dare to fail.
 Algorithm Neural Networks Predictive Analytics Backend Don't be afraid to give up the good to go for the great. NLP Firewalls Python
+Blockchain To be the best, you must be able to handle the worst. Quantum Computing Container Orchestration Code Review Testing A/B Testing Content Delivery Network Success is how high you bounce when you hit bottom. Serverless Backend Agile Neural Networks Logging
