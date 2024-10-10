@@ -10,3 +10,4 @@ Parallel Processing Stay hungry, stay foolish. Difficult roads often lead to bea
 Microservices Security Frontend API Load Testing Cloud Functions Database Indexing Do what you love and the money will follow.
 Don't be afraid to give up the good to go for the great. Framework Cache Invalidation Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Event Sourcing Data Pipeline Sharding Stay hungry, stay foolish.
 Scalability UX Optimization Monitoring Edge Computing Latency Optimization Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have.
+Don't be afraid to give up the good to go for the great. Multi-threading Data Science Logging Sharding Cache Invalidation Version Control API Gateway React Innovation distinguishes between a leader and a follower.

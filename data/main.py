@@ -9,3 +9,4 @@ Code Review DNS Routing Monitoring Version Control Pull Request Success usually 
 Security Kubernetes IoT Python Cloud Database Event Sourcing Great things never come from comfort zones. A/B Testing Stay hungry, stay foolish. Pull Request API OAuth Performance
 Replica Set Dream big and dare to fail. Version Control A/B Testing NLP Message Queue Microservices Deployment
 Container Orchestration Python Testing Opportunities don't happen. You create them. CI/CD Optimization Docker Lambda Functions Firewalls Logging Quantum Computing Predictive Analytics
+Difficult roads often lead to beautiful destinations. Pull Request Agile Artificial Intelligence The only way to do great work is to love what you do. Blockchain Security Event Sourcing
