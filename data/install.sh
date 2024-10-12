@@ -16,3 +16,4 @@ Stay hungry, stay foolish. Great things never come from comfort zones. Innovatio
 Kafka Latency Optimization To be the best, you must be able to handle the worst. Microservices Code Review Automation
 CI/CD Framework Artificial Intelligence Don't be afraid to give up the good to go for the great. Containerization Message Queue Logging Database Blockchain If you can dream it, you can do it. Data Pipeline Optimization Testing
 Database CI/CD Backend React Success doesn’t just find you. You have to go out and get it. Automation Agile Predictive Analytics Containerization Load Balancing
+Code Review Microservices WebSockets Cloud Testing Cache Invalidation Stay hungry, stay foolish.
