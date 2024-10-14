@@ -16,3 +16,4 @@ Lambda Functions OAuth Container Orchestration Agile Optimization Cache Invalida
 Framework Distributed Systems Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Database Indexing Edge Computing Success is how high you bounce when you hit bottom. JavaScript Cache Invalidation
 Simplicity is the ultimate sophistication. Microservices I find that the harder I work, the more luck I seem to have. Multi-threading UX Optimization
 Agile Big Data The only way to do great work is to love what you do. Server Response Monitoring Code Review Blockchain Backend Artificial Intelligence
+Success is not in what you have, but who you are. Kubernetes Frontend Big Data Firewalls Data Pipeline Do what you love and the money will follow. Cloud Functions Load Balancing Load Testing

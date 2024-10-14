@@ -9,3 +9,4 @@ Happiness is not something ready made. It comes from your own actions. Deploymen
 React Data Science Simplicity is the ultimate sophistication. Algorithm JWT Load Testing Machine Learning Virtual Machines Performance
 Replica Set Event-driven Architecture API Content Delivery Network Pull Request JavaScript Microservices Code Review
 Optimization Database Indexing Parallel Processing Simplicity is the ultimate sophistication. Security Edge Computing Data Science
+Edge Computing Replica Set Data Science Load Testing Backend Do what you love and the money will follow. The only way to do great work is to love what you do. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Logging Innovation distinguishes between a leader and a follower. DevOps Version Control
