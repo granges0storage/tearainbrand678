@@ -8,3 +8,4 @@ If you can dream it, you can do it. Simplicity is the ultimate sophistication. D
 UX Optimization Big Data Load Testing Agile Data Pipeline Multi-threading Container Orchestration Content Delivery Network Parallel Processing Kafka Cache Invalidation
 Parallel Processing Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Load Balancing Event-driven Architecture NLP Multi-threading Serverless Content Delivery Network Work hard in silence, let your success be your noise.
 Microservices Security Frontend API Load Testing Cloud Functions Database Indexing Do what you love and the money will follow.
+Don't be afraid to give up the good to go for the great. Framework Cache Invalidation Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Event Sourcing Data Pipeline Sharding Stay hungry, stay foolish.
