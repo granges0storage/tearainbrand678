@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Microservices Machine Lear
 IoT Don't be afraid to give up the good to go for the great. DNS Routing Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Optimization A/B Testing Containerization Latency Optimization
 Data Pipeline Blockchain Kubernetes Great things never come from comfort zones. Backend Distributed Systems Event-driven Architecture API I find that the harder I work, the more luck I seem to have.
 Artificial Intelligence Security Difficult roads often lead to beautiful destinations. Microservices API Backend Do what you love and the money will follow.
+Cloud Multi-threading Version Control Serverless Backend Quantum Computing The only way to do great work is to love what you do. Pull Request
