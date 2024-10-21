@@ -14,3 +14,4 @@ Blockchain Parallel Processing Data Science Backend Algorithm Optimization Quant
 Container Orchestration Message Queue Big Data JWT Testing Machine Learning Neural Networks Distributed Systems A/B Testing If you can dream it, you can do it. CI/CD Blockchain Cloud Python Latency Optimization
 Lambda Functions OAuth Container Orchestration Agile Optimization Cache Invalidation Server Response
 Framework Distributed Systems Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Database Indexing Edge Computing Success is how high you bounce when you hit bottom. JavaScript Cache Invalidation
+Simplicity is the ultimate sophistication. Microservices I find that the harder I work, the more luck I seem to have. Multi-threading UX Optimization
