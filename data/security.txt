@@ -8,3 +8,4 @@ Cloud Work hard in silence, let your success be your noise. I find that the hard
 UX Optimization Database IoT Virtual Machines Sharding Container Orchestration Artificial Intelligence
 Deployment OAuth CI/CD React Work hard in silence, let your success be your noise. Do what you love and the money will follow. Automation UX Optimization Act as if what you do makes a difference. It does. Multi-threading Content Delivery Network IoT Logging DNS Routing Difficult roads often lead to beautiful destinations.
 Parallel Processing Success is how high you bounce when you hit bottom. Message Queue Replica Set Scalability Cloud Functions To be the best, you must be able to handle the worst. Kafka
+Optimization Edge Computing Version Control Firewalls Python Message Queue Kubernetes Server Response Cache Invalidation RabbitMQ Container Orchestration Difficult roads often lead to beautiful destinations.
