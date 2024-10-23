@@ -8,3 +8,4 @@ Lambda Functions Great things never come from comfort zones. To be the best, you
 Happiness is not something ready made. It comes from your own actions. Deployment Agile Performance Opportunities don't happen. You create them. OAuth Work hard in silence, let your success be your noise. NLP Neural Networks Edge Computing Replica Set Load Balancing Cache Invalidation CI/CD
 React Data Science Simplicity is the ultimate sophistication. Algorithm JWT Load Testing Machine Learning Virtual Machines Performance
 Replica Set Event-driven Architecture API Content Delivery Network Pull Request JavaScript Microservices Code Review
+Optimization Database Indexing Parallel Processing Simplicity is the ultimate sophistication. Security Edge Computing Data Science
