@@ -8,3 +8,4 @@ JavaScript Serverless Big Data API Data Science Zero Downtime Deployment
 Code Review DNS Routing Monitoring Version Control Pull Request Success usually comes to those who are too busy to be looking for it. RabbitMQ I find that the harder I work, the more luck I seem to have. Database JavaScript Do what you love and the money will follow. Testing Parallel Processing Server Response Dream big and dare to fail.
 Security Kubernetes IoT Python Cloud Database Event Sourcing Great things never come from comfort zones. A/B Testing Stay hungry, stay foolish. Pull Request API OAuth Performance
 Replica Set Dream big and dare to fail. Version Control A/B Testing NLP Message Queue Microservices Deployment
+Container Orchestration Python Testing Opportunities don't happen. You create them. CI/CD Optimization Docker Lambda Functions Firewalls Logging Quantum Computing Predictive Analytics
