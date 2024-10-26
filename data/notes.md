@@ -12,3 +12,4 @@ Kafka Success doesn’t just find you. You have to go out and get it. Virtual Mach
 Kafka Performance Virtual Machines RabbitMQ Automation Backend Artificial Intelligence JavaScript Message Queue Testing API GraphQL
 Database Indexing Replica Set Deployment DevOps A/B Testing OAuth Performance Security WebSockets Zero Downtime Deployment Distributed Systems Virtual Machines Container Orchestration
 Simplicity is the ultimate sophistication. API Backend Content Delivery Network Do what you love and the money will follow. Database Indexing Database Success doesn’t just find you. You have to go out and get it. WebSockets
+Cloud Functions WebSockets Event Sourcing Kafka Dream big and dare to fail.

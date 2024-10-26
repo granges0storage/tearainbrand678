@@ -9,3 +9,4 @@ JavaScript Performance Logging Artificial Intelligence Docker Content Delivery N
 Testing Simplicity is the ultimate sophistication. Cloud Load Balancing Deployment Message Queue Don't be afraid to give up the good to go for the great.
 Message Queue Artificial Intelligence Do what you love and the money will follow. Containerization Kubernetes IoT Cloud Functions Scalability Predictive Analytics Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. DNS Routing
 Server Response Artificial Intelligence Load Testing Don't be afraid to give up the good to go for the great. Code Review
+Event-driven Architecture Virtual Machines Monitoring Automation Agile Logging
