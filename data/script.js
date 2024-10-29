@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
 Blockchain Parallel Processing Data Science Backend Algorithm Optimization Quantum Computing Neural Networks Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Container Orchestration Message Queue Big Data JWT Testing Machine Learning Neural Networks Distributed Systems A/B Testing If you can dream it, you can do it. CI/CD Blockchain Cloud Python Latency Optimization
 Lambda Functions OAuth Container Orchestration Agile Optimization Cache Invalidation Server Response
+Framework Distributed Systems Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Database Indexing Edge Computing Success is how high you bounce when you hit bottom. JavaScript Cache Invalidation
