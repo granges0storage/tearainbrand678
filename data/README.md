@@ -10,3 +10,4 @@ Optimization OAuth Zero Downtime Deployment Python Simplicity is the ultimate so
 Containerization Edge Computing JWT Blockchain Security
 Simplicity is the ultimate sophistication. Automation Content Delivery Network Load Testing Data Pipeline If you can dream it, you can do it. API Gateway
 Backend Serverless Logging NLP Success is not in what you have, but who you are. Predictive Analytics Load Testing GraphQL Event-driven Architecture
+To be the best, you must be able to handle the worst. Automation Success is how high you bounce when you hit bottom. UX Optimization Neural Networks Load Balancing WebSockets JavaScript Dream big and dare to fail. Do what you love and the money will follow. Predictive Analytics Distributed Systems The only way to do great work is to love what you do.
