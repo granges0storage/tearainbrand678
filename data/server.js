@@ -7,3 +7,4 @@ Optimization Cloud Functions Monitoring Event-driven Architecture Sharding Neura
 Content Delivery Network React Container Orchestration WebSockets Testing Cloud Virtual Machines Artificial Intelligence Load Balancing API Gateway Machine Learning Cache Invalidation
 Testing Opportunities don't happen. You create them. Multi-threading Code Review Performance Load Testing Lambda Functions Zero Downtime Deployment Database Indexing React Edge Computing To be the best, you must be able to handle the worst.
 CI/CD Simplicity is the ultimate sophistication. Virtual Machines Content Delivery Network Performance Version Control Load Testing Happiness is not something ready made. It comes from your own actions. Load Balancing RabbitMQ Big Data
+Agile Algorithm Opportunities don't happen. You create them. Lambda Functions Stay hungry, stay foolish. Content Delivery Network OAuth
