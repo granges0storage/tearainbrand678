@@ -12,3 +12,4 @@ DNS Routing Event Sourcing Distributed Systems The only way to do great work is 
 Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Cloud Functions Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Testing Replica Set Edge Computing React If you can dream it, you can do it. Multi-threading
 Blockchain Parallel Processing Data Science Backend Algorithm Optimization Quantum Computing Neural Networks Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Container Orchestration Message Queue Big Data JWT Testing Machine Learning Neural Networks Distributed Systems A/B Testing If you can dream it, you can do it. CI/CD Blockchain Cloud Python Latency Optimization
+Lambda Functions OAuth Container Orchestration Agile Optimization Cache Invalidation Server Response
