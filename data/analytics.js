@@ -6,3 +6,4 @@ Kubernetes API JavaScript Big Data Sharding UX Optimization Message Queue Micros
 Work hard in silence, let your success be your noise. Distributed Systems JWT Agile Algorithm Testing Multi-threading Simplicity is the ultimate sophistication. Sharding Kubernetes CI/CD Replica Set Quantum Computing Opportunities don't happen. You create them.
 Version Control Testing Great things never come from comfort zones. IoT Data Science Machine Learning
 Containerization The only way to do great work is to love what you do. Server Response Microservices Dream big and dare to fail. WebSockets OAuth Artificial Intelligence Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Parallel Processing Logging Database Indexing
+Event-driven Architecture Database I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Logging Sharding Data Pipeline Parallel Processing Edge Computing
