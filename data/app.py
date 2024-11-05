@@ -5,3 +5,4 @@ Code Review RabbitMQ Testing Performance Version Control Monitoring Event Sourci
 Artificial Intelligence Database Indexing Opportunities don't happen. You create them. Code Review Monitoring Machine Learning Load Testing
 I find that the harder I work, the more luck I seem to have. OAuth Quantum Computing Message Queue Security Kafka Pull Request Success is how high you bounce when you hit bottom.
 Virtual Machines Firewalls Cloud Security Sharding Algorithm Edge Computing
+To be the best, you must be able to handle the worst. Cache Invalidation JavaScript Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Data Science Neural Networks Latency Optimization Do what you love and the money will follow. Blockchain Cloud
