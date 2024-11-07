@@ -7,3 +7,4 @@ Frontend Stay hungry, stay foolish. Opportunities don't happen. You create them.
 Do what you love and the money will follow. Automation Scalability Python Frontend API Gateway
 JavaScript Performance Logging Artificial Intelligence Docker Content Delivery Network Success usually comes to those who are too busy to be looking for it. Predictive Analytics Happiness is not something ready made. It comes from your own actions. Algorithm Agile Automation Backend Great things never come from comfort zones. Opportunities don't happen. You create them.
 Testing Simplicity is the ultimate sophistication. Cloud Load Balancing Deployment Message Queue Don't be afraid to give up the good to go for the great.
+Message Queue Artificial Intelligence Do what you love and the money will follow. Containerization Kubernetes IoT Cloud Functions Scalability Predictive Analytics Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. DNS Routing
