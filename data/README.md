@@ -9,3 +9,4 @@ JavaScript WebSockets Agile Code Review Data Pipeline I find that the harder I w
 Optimization OAuth Zero Downtime Deployment Python Simplicity is the ultimate sophistication.
 Containerization Edge Computing JWT Blockchain Security
 Simplicity is the ultimate sophistication. Automation Content Delivery Network Load Testing Data Pipeline If you can dream it, you can do it. API Gateway
+Backend Serverless Logging NLP Success is not in what you have, but who you are. Predictive Analytics Load Testing GraphQL Event-driven Architecture
