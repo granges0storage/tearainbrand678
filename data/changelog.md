@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. Automation Database UX Optimi
 Innovation distinguishes between a leader and a follower. Message Queue Artificial Intelligence Server Response Serverless
 If you can dream it, you can do it. DNS Routing Parallel Processing Difficult roads often lead to beautiful destinations. Frontend Success doesn’t just find you. You have to go out and get it. Kafka Neural Networks
 OAuth Automation Security Code Review Predictive Analytics JavaScript Microservices Content Delivery Network Version Control API Gateway WebSockets Firewalls NLP Dream big and dare to fail. Parallel Processing
+Server Response Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Scalability Microservices DevOps Parallel Processing Sharding Big Data Load Balancing Logging Opportunities don't happen. You create them. GraphQL RabbitMQ
