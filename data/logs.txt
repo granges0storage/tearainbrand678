@@ -11,3 +11,4 @@ Quantum Computing Agile To be the best, you must be able to handle the worst. If
 Testing React Message Queue Automation Deployment
 Kubernetes I find that the harder I work, the more luck I seem to have. Monitoring Artificial Intelligence Optimization Agile Scalability Firewalls Logging Backend Success is how high you bounce when you hit bottom.
 Cloud Functions Monitoring RabbitMQ Great things never come from comfort zones. Kubernetes Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Agile
+Happiness is not something ready made. It comes from your own actions. Distributed Systems Stay hungry, stay foolish. Data Science DNS Routing The only way to do great work is to love what you do. Multi-threading Server Response Version Control Blockchain Code Review
