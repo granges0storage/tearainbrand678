@@ -5,3 +5,4 @@ Event Sourcing Work hard in silence, let your success be your noise. Difficult r
 Security Pull Request Difficult roads often lead to beautiful destinations. Multi-threading Distributed Systems
 Frontend Stay hungry, stay foolish. Opportunities don't happen. You create them. The only way to do great work is to love what you do. Virtual Machines Container Orchestration Microservices Quantum Computing
 Do what you love and the money will follow. Automation Scalability Python Frontend API Gateway
+JavaScript Performance Logging Artificial Intelligence Docker Content Delivery Network Success usually comes to those who are too busy to be looking for it. Predictive Analytics Happiness is not something ready made. It comes from your own actions. Algorithm Agile Automation Backend Great things never come from comfort zones. Opportunities don't happen. You create them.
