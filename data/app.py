@@ -4,3 +4,4 @@ Backend Innovation distinguishes between a leader and a follower. Parallel Proce
 Code Review RabbitMQ Testing Performance Version Control Monitoring Event Sourcing
 Artificial Intelligence Database Indexing Opportunities don't happen. You create them. Code Review Monitoring Machine Learning Load Testing
 I find that the harder I work, the more luck I seem to have. OAuth Quantum Computing Message Queue Security Kafka Pull Request Success is how high you bounce when you hit bottom.
+Virtual Machines Firewalls Cloud Security Sharding Algorithm Edge Computing
