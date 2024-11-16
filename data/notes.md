@@ -10,3 +10,4 @@ Python Microservices OAuth Artificial Intelligence Happiness is not something re
 Distributed Systems IoT Version Control CI/CD Load Balancing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Machine Learning Sharding
 Kafka Success doesn’t just find you. You have to go out and get it. Virtual Machines Predictive Analytics Cache Invalidation NLP JavaScript Database DevOps Frontend Automation
 Kafka Performance Virtual Machines RabbitMQ Automation Backend Artificial Intelligence JavaScript Message Queue Testing API GraphQL
+Database Indexing Replica Set Deployment DevOps A/B Testing OAuth Performance Security WebSockets Zero Downtime Deployment Distributed Systems Virtual Machines Container Orchestration
