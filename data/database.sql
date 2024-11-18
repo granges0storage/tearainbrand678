@@ -10,3 +10,4 @@ Predictive Analytics Artificial Intelligence Edge Computing OAuth Logging Succes
 DNS Routing NLP API Innovation distinguishes between a leader and a follower. Python To be the best, you must be able to handle the worst. If you can dream it, you can do it. Latency Optimization Framework Do what you love and the money will follow. Frontend
 Big Data Docker Version Control A/B Testing DNS Routing Kafka IoT Artificial Intelligence Content Delivery Network Dream big and dare to fail. Data Pipeline
 Big Data Cache Invalidation Neural Networks Cloud Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. IoT
+Parallel Processing Artificial Intelligence Neural Networks Success doesn’t just find you. You have to go out and get it. Cloud
