@@ -8,3 +8,4 @@ GraphQL Replica Set Cache Invalidation Great things never come from comfort zone
 JavaScript WebSockets Agile Code Review Data Pipeline I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Backend Work hard in silence, let your success be your noise. Data Science Latency Optimization
 Optimization OAuth Zero Downtime Deployment Python Simplicity is the ultimate sophistication.
 Containerization Edge Computing JWT Blockchain Security
+Simplicity is the ultimate sophistication. Automation Content Delivery Network Load Testing Data Pipeline If you can dream it, you can do it. API Gateway

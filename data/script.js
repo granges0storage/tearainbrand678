@@ -7,3 +7,4 @@ IoT Blockchain CI/CD OAuth Kubernetes API Gateway Stay hungry, stay foolish. Rep
 I find that the harder I work, the more luck I seem to have. Message Queue IoT Data Science Database Indexing A/B Testing To be the best, you must be able to handle the worst. Dream big and dare to fail. Lambda Functions Optimization JavaScript Predictive Analytics
 Frontend Event Sourcing Replica Set Innovation distinguishes between a leader and a follower. Blockchain
 I find that the harder I work, the more luck I seem to have. Lambda Functions To be the best, you must be able to handle the worst. Logging Microservices Kubernetes Content Delivery Network DevOps Stay hungry, stay foolish. Backend Cloud Opportunities don't happen. You create them. IoT
+Innovation distinguishes between a leader and a follower. Scalability Python Message Queue WebSockets Neural Networks CI/CD Containerization Dream big and dare to fail. Security
