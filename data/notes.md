@@ -8,3 +8,4 @@ Do what you love and the money will follow. Quantum Computing Logging The only w
 Act as if what you do makes a difference. It does. NLP Database Security Quantum Computing Scalability
 Python Microservices OAuth Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Edge Computing Optimization Database Indexing
 Distributed Systems IoT Version Control CI/CD Load Balancing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Machine Learning Sharding
+Kafka Success doesn’t just find you. You have to go out and get it. Virtual Machines Predictive Analytics Cache Invalidation NLP JavaScript Database DevOps Frontend Automation
