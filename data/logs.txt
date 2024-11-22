@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. Logging Fr
 Big Data Logging Performance Cloud Simplicity is the ultimate sophistication. A/B Testing UX Optimization
 Quantum Computing Agile To be the best, you must be able to handle the worst. If you can dream it, you can do it. Frontend Replica Set Framework Monitoring WebSockets Innovation distinguishes between a leader and a follower. Database Do what you love and the money will follow. DevOps Edge Computing Sharding
 Testing React Message Queue Automation Deployment
+Kubernetes I find that the harder I work, the more luck I seem to have. Monitoring Artificial Intelligence Optimization Agile Scalability Firewalls Logging Backend Success is how high you bounce when you hit bottom.
