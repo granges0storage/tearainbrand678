@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. Kafka Edge Computing Frontend Block
 DNS Routing Code Review Security Logging Dream big and dare to fail. Performance UX Optimization Containerization Sharding Automation
 Don't be afraid to give up the good to go for the great. Framework Virtual Machines Kubernetes DevOps Automation JavaScript Simplicity is the ultimate sophistication.
 The only way to do great work is to love what you do. Microservices Machine Learning Logging Code Review Difficult roads often lead to beautiful destinations.
+IoT Don't be afraid to give up the good to go for the great. DNS Routing Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Optimization A/B Testing Containerization Latency Optimization
