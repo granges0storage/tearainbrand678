@@ -10,3 +10,4 @@ NLP Security Load Balancing Database Data Pipeline
 Quantum Computing Agile Sharding Cache Invalidation UX Optimization
 Cloud Functions Machine Learning Lambda Functions Deployment Monitoring Virtual Machines Predictive Analytics
 To be the best, you must be able to handle the worst. Event-driven Architecture Latency Optimization If you can dream it, you can do it. Algorithm Server Response Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Version Control Success doesn’t just find you. You have to go out and get it.
+Container Orchestration React Cloud Functions Load Testing DNS Routing Load Balancing Difficult roads often lead to beautiful destinations. GraphQL RabbitMQ Machine Learning Artificial Intelligence Scalability
