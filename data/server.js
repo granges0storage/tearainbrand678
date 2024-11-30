@@ -3,3 +3,4 @@ Virtual Machines Cloud Functions Security Event Sourcing Data Pipeline Database 
 Microservices Container Orchestration Dream big and dare to fail. DevOps Data Pipeline Opportunities don't happen. You create them. Version Control RabbitMQ Deployment Automation Predictive Analytics Sharding
 Big Data Sharding Distributed Systems Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Blockchain
 Cache Invalidation Security Load Balancing Docker Message Queue API Code Review Microservices API Gateway Container Orchestration Optimization Artificial Intelligence
+Optimization Cloud Functions Monitoring Event-driven Architecture Sharding Neural Networks Automation
