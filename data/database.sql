@@ -7,3 +7,4 @@ Stay hungry, stay foolish. Edge Computing Success usually comes to those who are
 Firewalls I find that the harder I work, the more luck I seem to have. Automation The only way to do great work is to love what you do. React Data Pipeline UX Optimization Kubernetes
 Logging React A/B Testing Algorithm CI/CD Event-driven Architecture Firewalls Frontend
 Predictive Analytics Artificial Intelligence Edge Computing OAuth Logging Success is how high you bounce when you hit bottom. Sharding Content Delivery Network Do what you love and the money will follow. Multi-threading Database
+DNS Routing NLP API Innovation distinguishes between a leader and a follower. Python To be the best, you must be able to handle the worst. If you can dream it, you can do it. Latency Optimization Framework Do what you love and the money will follow. Frontend
