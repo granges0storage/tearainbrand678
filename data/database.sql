@@ -6,3 +6,4 @@ Parallel Processing Edge Computing Work hard in silence, let your success be you
 Stay hungry, stay foolish. Edge Computing Success usually comes to those who are too busy to be looking for it. Neural Networks If you can dream it, you can do it. IoT Database Testing NLP Kafka
 Firewalls I find that the harder I work, the more luck I seem to have. Automation The only way to do great work is to love what you do. React Data Pipeline UX Optimization Kubernetes
 Logging React A/B Testing Algorithm CI/CD Event-driven Architecture Firewalls Frontend
+Predictive Analytics Artificial Intelligence Edge Computing OAuth Logging Success is how high you bounce when you hit bottom. Sharding Content Delivery Network Do what you love and the money will follow. Multi-threading Database
