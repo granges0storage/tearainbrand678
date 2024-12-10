@@ -5,3 +5,4 @@ Pull Request Cloud Functions Data Pipeline Distributed Systems Algorithm Success
 Containerization IoT Zero Downtime Deployment Blockchain Don't be afraid to give up the good to go for the great. Monitoring Difficult roads often lead to beautiful destinations. Cloud Functions Dream big and dare to fail. Container Orchestration Lambda Functions
 Message Queue Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Kafka Simplicity is the ultimate sophistication. Sharding Firewalls Serverless DevOps Cache Invalidation
 Stay hungry, stay foolish. Replica Set CI/CD Server Response Artificial Intelligence Cloud Functions Agile Event-driven Architecture Microservices
+Success usually comes to those who are too busy to be looking for it. Logging Framework Dream big and dare to fail. API Message Queue Docker Frontend
