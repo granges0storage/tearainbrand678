@@ -9,3 +9,4 @@ Load Testing DNS Routing Monitoring Lambda Functions Big Data
 Serverless Event-driven Architecture JavaScript Quantum Computing Frontend Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
 DevOps CI/CD NLP Pull Request Distributed Systems Firewalls Automation Big Data Innovation distinguishes between a leader and a follower.
 Neural Networks Load Testing To be the best, you must be able to handle the worst. Cache Invalidation Data Science Happiness is not something ready made. It comes from your own actions. Database Opportunities don't happen. You create them. Algorithm DNS Routing
+Difficult roads often lead to beautiful destinations. Serverless Cloud Frontend Stay hungry, stay foolish. Event Sourcing Data Pipeline Dream big and dare to fail. Predictive Analytics UX Optimization OAuth Server Response Success usually comes to those who are too busy to be looking for it.
