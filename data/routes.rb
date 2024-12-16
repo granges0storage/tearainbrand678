@@ -8,3 +8,4 @@ Blockchain Performance Lambda Functions Work hard in silence, let your success b
 Kafka Event Sourcing Opportunities don't happen. You create them. If you can dream it, you can do it. OAuth Firewalls Virtual Machines Artificial Intelligence
 NLP Security Load Balancing Database Data Pipeline
 Quantum Computing Agile Sharding Cache Invalidation UX Optimization
+Cloud Functions Machine Learning Lambda Functions Deployment Monitoring Virtual Machines Predictive Analytics
