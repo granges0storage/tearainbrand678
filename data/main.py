@@ -4,3 +4,4 @@ Work hard in silence, let your success be your noise. Big Data Opportunities don
 Opportunities don't happen. You create them. Monitoring Data Pipeline Performance Stay hungry, stay foolish. Deployment Optimization Scalability Data Science
 Pull Request API Gateway Optimization Microservices IoT Event Sourcing Framework Server Response Sharding Version Control Replica Set Predictive Analytics Big Data Difficult roads often lead to beautiful destinations.
 RabbitMQ API Data Pipeline Containerization Algorithm Opportunities don't happen. You create them. If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Quantum Computing Performance Stay hungry, stay foolish. Backend
+JavaScript Serverless Big Data API Data Science Zero Downtime Deployment
