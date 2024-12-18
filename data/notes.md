@@ -3,3 +3,4 @@ DevOps Database Indexing Difficult roads often lead to beautiful destinations. A
 Success usually comes to those who are too busy to be looking for it. Distributed Systems DevOps If you can dream it, you can do it. Success is not in what you have, but who you are. Blockchain Docker Happiness is not something ready made. It comes from your own actions. WebSockets Stay hungry, stay foolish.
 Load Testing Quantum Computing Database Indexing To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. IoT Database Code Review JWT
 I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Cache Invalidation Framework Sharding Security Distributed Systems Backend Artificial Intelligence Machine Learning
+NLP Parallel Processing API Latency Optimization Sharding Opportunities don't happen. You create them. Stay hungry, stay foolish. Backend
