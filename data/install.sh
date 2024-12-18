@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. JWT If you can dream i
 Load Testing DNS Routing Monitoring Lambda Functions Big Data
 Serverless Event-driven Architecture JavaScript Quantum Computing Frontend Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
 DevOps CI/CD NLP Pull Request Distributed Systems Firewalls Automation Big Data Innovation distinguishes between a leader and a follower.
+Neural Networks Load Testing To be the best, you must be able to handle the worst. Cache Invalidation Data Science Happiness is not something ready made. It comes from your own actions. Database Opportunities don't happen. You create them. Algorithm DNS Routing
