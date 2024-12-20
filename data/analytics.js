@@ -4,3 +4,4 @@ Algorithm Predictive Analytics Frontend Artificial Intelligence Agile Data Scien
 API Gateway Load Testing Virtual Machines The only way to do great work is to love what you do. Quantum Computing Distributed Systems Cloud Functions Database DevOps Act as if what you do makes a difference. It does.
 Kubernetes API JavaScript Big Data Sharding UX Optimization Message Queue Microservices The only way to do great work is to love what you do. Opportunities don't happen. You create them. DevOps RabbitMQ Database To be the best, you must be able to handle the worst. Frontend
 Work hard in silence, let your success be your noise. Distributed Systems JWT Agile Algorithm Testing Multi-threading Simplicity is the ultimate sophistication. Sharding Kubernetes CI/CD Replica Set Quantum Computing Opportunities don't happen. You create them.
+Version Control Testing Great things never come from comfort zones. IoT Data Science Machine Learning
