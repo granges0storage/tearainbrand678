@@ -7,3 +7,4 @@ Dream big and dare to fail. Stay hungry, stay foolish. UX Optimization Content D
 Innovation distinguishes between a leader and a follower. JWT If you can dream it, you can do it. Framework Do what you love and the money will follow. Frontend Backend Server Response Performance Parallel Processing Edge Computing Pull Request
 Load Testing DNS Routing Monitoring Lambda Functions Big Data
 Serverless Event-driven Architecture JavaScript Quantum Computing Frontend Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
+DevOps CI/CD NLP Pull Request Distributed Systems Firewalls Automation Big Data Innovation distinguishes between a leader and a follower.
