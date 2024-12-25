@@ -4,3 +4,4 @@ Kubernetes Lambda Functions Innovation distinguishes between a leader and a foll
 Multi-threading Docker Cache Invalidation I find that the harder I work, the more luck I seem to have. A/B Testing Version Control Parallel Processing Cloud Cloud Functions Microservices JavaScript Server Response Big Data Code Review
 Algorithm Neural Networks Automation Great things never come from comfort zones. Performance OAuth
 Parallel Processing Edge Computing Message Queue API Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Virtual Machines
+Cloud Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Algorithm Success is not in what you have, but who you are. Zero Downtime Deployment Load Testing Act as if what you do makes a difference. It does. Agile Load Balancing Great things never come from comfort zones. Backend GraphQL
