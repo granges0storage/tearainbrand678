@@ -3,3 +3,4 @@ UX Optimization Sharding RabbitMQ Kubernetes Do what you love and the money will
 Optimization Neural Networks WebSockets Server Response Message Queue JWT Success doesn’t just find you. You have to go out and get it. Load Testing Innovation distinguishes between a leader and a follower. NLP Database Data Science Big Data Version Control Python
 Sharding Backend Container Orchestration Predictive Analytics Cache Invalidation I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Event Sourcing
 Backend Monitoring Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Database WebSockets Testing Predictive Analytics Latency Optimization
+Blockchain Data Pipeline Performance Cache Invalidation Difficult roads often lead to beautiful destinations.
