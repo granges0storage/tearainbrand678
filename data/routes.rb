@@ -6,3 +6,4 @@ Blockchain Database Innovation distinguishes between a leader and a follower. Mi
 Python Big Data Lambda Functions Containerization Backend Algorithm Opportunities don't happen. You create them. Security Testing Microservices Database Event Sourcing
 Blockchain Performance Lambda Functions Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Security Cache Invalidation Docker JWT Data Pipeline
 Kafka Event Sourcing Opportunities don't happen. You create them. If you can dream it, you can do it. OAuth Firewalls Virtual Machines Artificial Intelligence
+NLP Security Load Balancing Database Data Pipeline
