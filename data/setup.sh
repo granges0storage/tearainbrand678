@@ -5,3 +5,4 @@ Event Sourcing Big Data React Blockchain Edge Computing Lambda Functions Cache I
 Innovation distinguishes between a leader and a follower. Framework Success is not in what you have, but who you are. OAuth Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Artificial Intelligence Logging
 Testing Content Delivery Network Happiness is not something ready made. It comes from your own actions. Edge Computing A/B Testing Deployment Dream big and dare to fail. Message Queue Load Balancing NLP Sharding Database Indexing Automation Backend JWT
 If you can dream it, you can do it. Simplicity is the ultimate sophistication. Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Deployment Big Data
+UX Optimization Big Data Load Testing Agile Data Pipeline Multi-threading Container Orchestration Content Delivery Network Parallel Processing Kafka Cache Invalidation
