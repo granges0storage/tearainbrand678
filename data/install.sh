@@ -5,3 +5,4 @@ OAuth Success is not in what you have, but who you are. Happiness is not somethi
 Scalability DNS Routing Database Indexing Security Containerization WebSockets Serverless
 Dream big and dare to fail. Stay hungry, stay foolish. UX Optimization Content Delivery Network OAuth GraphQL Python Success usually comes to those who are too busy to be looking for it. WebSockets Database Sharding
 Innovation distinguishes between a leader and a follower. JWT If you can dream it, you can do it. Framework Do what you love and the money will follow. Frontend Backend Server Response Performance Parallel Processing Edge Computing Pull Request
+Load Testing DNS Routing Monitoring Lambda Functions Big Data
