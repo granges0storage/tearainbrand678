@@ -4,3 +4,4 @@ Dream big and dare to fail. Opportunities don't happen. You create them. Scalabi
 Cache Invalidation JWT Work hard in silence, let your success be your noise. Load Testing Message Queue
 Blockchain Database Innovation distinguishes between a leader and a follower. Microservices Docker Parallel Processing Happiness is not something ready made. It comes from your own actions. Code Review Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
 Python Big Data Lambda Functions Containerization Backend Algorithm Opportunities don't happen. You create them. Security Testing Microservices Database Event Sourcing
+Blockchain Performance Lambda Functions Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Security Cache Invalidation Docker JWT Data Pipeline
