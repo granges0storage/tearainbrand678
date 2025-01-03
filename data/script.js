@@ -4,3 +4,4 @@ JWT Predictive Analytics Kafka Quantum Computing Cloud Functions GraphQL JavaScr
 Content Delivery Network Event Sourcing Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Firewalls Backend Stay hungry, stay foolish. A/B Testing Dream big and dare to fail. Zero Downtime Deployment Load Balancing
 Kubernetes Agile Machine Learning Multi-threading API Testing Success is not in what you have, but who you are. Data Science
 IoT Blockchain CI/CD OAuth Kubernetes API Gateway Stay hungry, stay foolish. Replica Set Code Review Load Testing
+I find that the harder I work, the more luck I seem to have. Message Queue IoT Data Science Database Indexing A/B Testing To be the best, you must be able to handle the worst. Dream big and dare to fail. Lambda Functions Optimization JavaScript Predictive Analytics
