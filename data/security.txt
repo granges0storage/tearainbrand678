@@ -1,3 +1,4 @@
 GraphQL Event-driven Architecture Agile Database Dream big and dare to fail. Microservices Security Monitoring Frontend Virtual Machines Message Queue Distributed Systems
 Event-driven Architecture Testing Kafka Container Orchestration Optimization Docker A/B Testing Monitoring Database Distributed Systems OAuth Frontend
 Kubernetes Lambda Functions Innovation distinguishes between a leader and a follower. Event-driven Architecture Zero Downtime Deployment Docker
+Multi-threading Docker Cache Invalidation I find that the harder I work, the more luck I seem to have. A/B Testing Version Control Parallel Processing Cloud Cloud Functions Microservices JavaScript Server Response Big Data Code Review
