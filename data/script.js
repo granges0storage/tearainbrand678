@@ -3,3 +3,4 @@ Scalability Edge Computing JWT NLP Multi-threading DevOps Don't be afraid to giv
 JWT Predictive Analytics Kafka Quantum Computing Cloud Functions GraphQL JavaScript Security Optimization Message Queue Deployment Content Delivery Network Load Balancing
 Content Delivery Network Event Sourcing Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Firewalls Backend Stay hungry, stay foolish. A/B Testing Dream big and dare to fail. Zero Downtime Deployment Load Balancing
 Kubernetes Agile Machine Learning Multi-threading API Testing Success is not in what you have, but who you are. Data Science
+IoT Blockchain CI/CD OAuth Kubernetes API Gateway Stay hungry, stay foolish. Replica Set Code Review Load Testing
