@@ -1,2 +1,3 @@
 Do what you love and the money will follow. Great things never come from comfort zones. DNS Routing Success usually comes to those who are too busy to be looking for it. GraphQL Predictive Analytics
 UX Optimization Sharding RabbitMQ Kubernetes Do what you love and the money will follow. Artificial Intelligence Neural Networks Containerization To be the best, you must be able to handle the worst. Zero Downtime Deployment
+Optimization Neural Networks WebSockets Server Response Message Queue JWT Success doesn’t just find you. You have to go out and get it. Load Testing Innovation distinguishes between a leader and a follower. NLP Database Data Science Big Data Version Control Python
