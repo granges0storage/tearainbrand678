@@ -1,0 +1,1 @@
+Big Data Scalability Framework Monitoring DNS Routing Latency Optimization To be the best, you must be able to handle the worst. Cloud Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Virtual Machines Logging Event-driven Architecture

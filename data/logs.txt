@@ -1,2 +1,3 @@
 Do what you love and the money will follow. Pull Request Performance GraphQL Security Docker JavaScript
 Scalability React Container Orchestration Content Delivery Network JWT Database Replica Set IoT Backend Data Pipeline
+A/B Testing Message Queue Cloud Optimization JWT Do what you love and the money will follow. Act as if what you do makes a difference. It does. Data Pipeline
